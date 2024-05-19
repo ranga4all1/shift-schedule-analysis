@@ -1,0 +1,1212 @@
+Person 1 Monday, 02/26/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Tuesday, 02/27/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 9:45 pm, On Queue 10 pm
+Person 1 Wednesday, 02/28/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:30 pm, On Queue 10:45 pm
+Person 1 Thursday, 02/29/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7:45 pm, On Queue 8:15 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Friday, 03/01/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5 pm, On Queue 5:15 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Monday, 03/04/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 9:45 pm, On Queue 10 pm
+Person 1 Tuesday, 03/05/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7:45 pm, On Queue 8:15 pm, Break 10 pm, On Queue 10:15 pm
+Person 1 Wednesday, 03/06/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5 pm, On Queue 5:15 pm, Meal 7:45 pm, On Queue 8:15 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Thursday, 03/07/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7:45 pm, On Queue 8:15 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Friday, 03/08/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Monday, 03/11/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 1 Tuesday, 03/12/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7:45 pm, On Queue 8:15 pm, Break 10:30 pm, On Queue 10:45 pm
+Person 1 Wednesday, 03/13/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 9:45 pm, On Queue 10 pm
+Person 1 Thursday, 03/14/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Friday, 03/15/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:30 pm, On Queue 10:45 pm
+Person 1 Saturday, 03/16/2024, 10 am to 6:30 pm: Extra Hours 10 am, Break 11:45 am, Extra Hours 12 pm, Meal 2:15 pm, Extra Hours 2:45 pm, Break 4:15 pm, Extra Hours 4:30 pm
+Person 1 Monday, 03/18/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:15 pm, On Queue 10:30 pm
+Person 1 Tuesday, 03/19/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5 pm, On Queue 5:15 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:30 pm, On Queue 10:45 pm
+Person 1 Wednesday, 03/20/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10 pm, On Queue 10:15 pm
+Person 1 Thursday, 03/21/2024, 3:30 pm to 12 am: Meeting 3:30 pm, On Queue 4 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 8 pm, On Queue 8:30 pm, Break 10:30 pm, On Queue 10:45 pm
+Person 1 Friday, 03/22/2024, 3:30 pm to 12 am: On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 10:15 pm, On Queue 10:30 pm
+
+Person 2 Monday, 02/26/2024, full day off - Absent
+Person 2 Tuesday, 02/27/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 9:15 am, On Queue 9:30 am
+Person 2 Wednesday, 02/28/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 8:45 am, On Queue 9 am
+Person 2 Thursday, 02/29/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 9 am, On Queue 9:15 am
+Person 2 Friday, 03/01/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 8:45 am, On Queue 9 am
+Person 2 Monday, 03/04/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 9:15 am, On Queue 9:30 am
+Person 2 Tuesday, 03/05/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 8:45 am, On Queue 9 am
+Person 2 Wednesday, 03/06/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 9:15 am, On Queue 9:30 am
+Person 2 Thursday, 03/07/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 9:15 am, On Queue 9:30 am
+Person 2 Friday, 03/08/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 8:45 am, On Queue 9 am
+Person 2 Monday, 03/11/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 9 am, On Queue 9:15 am
+Person 2 Tuesday, 03/12/2024, full day off - Absent
+Person 2 Wednesday, 03/13/2024, 7:30 am to 11:30 am: On Queue 7:30 am, Break 9:15 am, On Queue 9:30 am
+Person 2 Thursday, 03/14/2024, 8 am to 12 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am
+Person 2 Friday, 03/15/2024, 8 am to 12 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am
+Person 2 Monday, 03/18/2024, 8 am to 12 pm: On Queue 8 am, Break 10 am, On Queue 10:15 am
+Person 2 Tuesday, 03/19/2024, 8 am to 12 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am
+Person 2 Wednesday, 03/20/2024, 8 am to 12 pm: Meeting 8 am, On Queue 8:30 am, Break 9:45 am, On Queue 10 am
+Person 2 Thursday, 03/21/2024, 8 am to 12 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am
+Person 2 Friday, 03/22/2024, 8 am to 12 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Program Training 10:30 am
+
+Person 3 Monday, 02/26/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:30 pm, On Queue 4 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Tuesday, 02/27/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Absent 5:16 pm,
+Person 3 Wednesday, 02/28/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Thursday, 02/29/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Friday, 03/01/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Absent 3:33 pm, On Queue 6 pm
+Person 3 Monday, 03/04/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:30 pm, On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 3 Tuesday, 03/05/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 3 Wednesday, 03/06/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 3 Thursday, 03/07/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Friday, 03/08/2024, 11:30 am to 8 pm: Absent 11:30 am, On Queue 3:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 3 Monday, 03/11/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:30 pm, On Queue 4 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Tuesday, 03/12/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6 pm, On Queue 6:15 pm
+Person 3 Wednesday, 03/13/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 3 Thursday, 03/14/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Friday, 03/15/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 3 Monday, 03/18/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Tuesday, 03/19/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 3 Wednesday, 03/20/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:30 pm, Meeting 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Thursday, 03/21/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 3 Friday, 03/22/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6 pm, On Queue 6:15 pm
+
+Person 4 Monday, 02/26/2024, full day off - Absent
+Person 4 Tuesday, 02/27/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Wednesday, 02/28/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Thursday, 02/29/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Friday, 03/01/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Saturday, 03/02/2024, 10 am to 3 pm: Extra Hours 10 am, Break 12:15 pm, Extra Hours 12:30 pm
+Person 4 Monday, 03/04/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Tuesday, 03/05/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Wednesday, 03/06/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Thursday, 03/07/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Friday, 03/08/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Time Off 12 pm,
+Person 4 Monday, 03/11/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Tuesday, 03/12/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Wednesday, 03/13/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Thursday, 03/14/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Friday, 03/15/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Monday, 03/18/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Tuesday, 03/19/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meeting 9:30 am, On Queue 10 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Wednesday, 03/20/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Thursday, 03/21/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Break 12:30 pm, On Queue 12:45 pm
+Person 4 Friday, 03/22/2024, 5 am to 1:30 pm: On Queue 5 am, Break 8:45 am, On Queue 9 am, Meal 11 am, On Queue 11:30 am, Absent 12 pm,
+
+Person 5 Monday, 02/26/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 5 Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 5 Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3 pm, On Queue 3:15 pm
+Person 5 Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 5 Friday, 03/01/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2 pm, On Queue 2:15 pm
+Person 5 Monday, 03/04/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 5 Tuesday, 03/05/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2 pm, On Queue 2:15 pm
+Person 5 Wednesday, 03/06/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2 pm, On Queue 2:15 pm, Absent 2:24 pm, On Queue 2:44 pm
+Person 5 Thursday, 03/07/2024, full day off - Absent
+Person 5 Friday, 03/08/2024, full day off - Time Off
+Person 5 Monday, 03/11/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2 pm, On Queue 2:15 pm
+Person 5 Tuesday, 03/12/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 5 Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:45 pm, On Queue 3 pm
+Person 5 Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:45 pm, On Queue 3 pm
+Person 5 Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 5 Monday, 03/18/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Absent 12 pm, Time Off 3:45 pm
+Person 5 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:45 pm, On Queue 3 pm
+Person 5 Wednesday, 03/20/2024, 8 am to 4:30 pm: Time Off 8 am
+Person 5 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 5 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Program Training 1:30 pm, Break 3 pm, On Queue 3:15 pm
+
+Person 6 Monday, 02/26/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6:30 pm, On Queue 7 pm, Break 9 pm, On Queue 9:15 pm
+Person 6 Tuesday, 02/27/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 6 Wednesday, 02/28/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 6 Thursday, 02/29/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 9 pm, On Queue 9:15 pm
+Person 6 Sunday, 03/03/2024, full day off - Absent
+Person 6 Monday, 03/04/2024, full day off - Absent
+Person 6 Tuesday, 03/05/2024, full day off - Absent
+Person 6 Wednesday, 03/06/2024, full day off - Absent
+Person 6 Thursday, 03/07/2024, full day off - Absent
+Person 6 Saturday, 03/09/2024, full day off - Absent
+Person 6 Sunday, 03/10/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6 pm, On Queue 6:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 6 Monday, 03/11/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:45 pm, On Queue 9 pm
+Person 6 Tuesday, 03/12/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 6 Wednesday, 03/13/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6 pm, On Queue 6:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 6 Thursday, 03/14/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:45 pm, On Queue 9 pm
+Person 6 Saturday, 03/16/2024, 10 am to 6:30 pm: Extra Hours 10 am, Break 12 pm, Extra Hours 12:15 pm, Meal 2:30 pm, Extra Hours 3 pm, Break 4:30 pm, Extra Hours 4:45 pm
+Person 6 Sunday, 03/17/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6 pm, On Queue 6:30 pm, Break 8:45 pm, On Queue 9 pm
+Person 6 Monday, 03/18/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 6 Tuesday, 03/19/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6 pm, On Queue 6:30 pm, Break 9 pm, On Queue 9:15 pm, Meeting 10 pm, On Queue 10:30 pm
+Person 6 Wednesday, 03/20/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6:30 pm, On Queue 7 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 6 Thursday, 03/21/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6 pm, On Queue 6:30 pm, Break 8:45 pm, On Queue 9 pm
+Person 6 Sunday, 03/24/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6 pm, On Queue 6:30 pm, Break 8:45 pm, On Queue 9 pm
+
+Person 7 Monday, 02/26/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7 am, On Queue 7:15 am
+Person 7 Tuesday, 02/27/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am
+Person 7 Wednesday, 02/28/2024, 5:30 am to 7:30 pm: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am, Split 9:30 am, On Queue 4:30 pm
+Person 7 Thursday, 02/29/2024, 5:30 am to 8 pm: On Queue 5:30 am, Break 8 am, On Queue 8:15 am, Split 9:30 am, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 7 Friday, 03/01/2024, 5:30 am to 8 pm: On Queue 5:30 am, Break 8 am, On Queue 8:15 am, Split 9:30 am, On Queue 4:30 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 7 Monday, 03/04/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am
+Person 7 Tuesday, 03/05/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am
+Person 7 Wednesday, 03/06/2024, 5:30 am to 7:30 pm: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am, Split 9:30 am, On Queue 4:30 pm
+Person 7 Thursday, 03/07/2024, 5:30 am to 8 pm: On Queue 5:30 am, Break 7:30 am, On Queue 7:45 am, Split 9:30 am, On Queue 4:30 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 7 Friday, 03/08/2024, 5:30 am to 8 pm: On Queue 5:30 am, Break 7:30 am, On Queue 7:45 am, Split 9:30 am, On Queue 4:30 pm, Break 6:45 pm, On Queue 7 pm
+Person 7 Monday, 03/11/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am
+Person 7 Tuesday, 03/12/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am
+Person 7 Wednesday, 03/13/2024, 5:30 am to 7:30 pm: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am, Split 9:30 am, On Queue 4:30 pm
+Person 7 Thursday, 03/14/2024, 5:30 am to 8 pm: On Queue 5:30 am, Break 7:30 am, On Queue 7:45 am, Split 9:30 am, On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm
+Person 7 Friday, 03/15/2024, 5:30 am to 8 pm: On Queue 5:30 am, Break 8 am, On Queue 8:15 am, Split 9:30 am, On Queue 4:30 pm, Break 6:45 pm, On Queue 7 pm
+Person 7 Monday, 03/18/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am
+Person 7 Tuesday, 03/19/2024, 5:30 am to 9:30 am: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am
+Person 7 Wednesday, 03/20/2024, 5:30 am to 7:30 pm: On Queue 5:30 am, Break 7:15 am, On Queue 7:30 am, Split 9:30 am, On Queue 4:30 pm
+Person 7 Thursday, 03/21/2024, 5:30 am to 8 pm: On Queue 5:30 am, Meeting 6 am, On Queue 6:30 am, Break 7:30 am, On Queue 7:45 am, Program Training 8:15 am, On Queue 9:05 am, Split 9:30 am, On Queue 4:30 pm, Break 6:45 pm, On Queue 7 pm
+Person 7 Friday, 03/22/2024, 5:30 am to 8 pm: On Queue 5:30 am, Break 8 am, On Queue 8:15 am, Split 9:30 am, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+
+Person 8 Monday, 02/26/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Friday, 03/01/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Monday, 03/04/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Tuesday, 03/05/2024, 8 am to 4:34 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 11:45 am, On Queue 12:15 pm, Absent 12:26 pm, On Queue 4:30 pm
+Person 8 Wednesday, 03/06/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 11:30 am, On Queue 12 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Thursday, 03/07/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:15 pm, On Queue 12:45 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Friday, 03/08/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 11:30 am, On Queue 12 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Monday, 03/11/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Tuesday, 03/12/2024, full day off - Absent
+Person 8 Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 11:45 am, On Queue 12:15 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Monday, 03/18/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12 pm, On Queue 12:30 pm, Meeting 2 pm, Chat Support 2:30 pm, Break 3 pm, On Queue 3:15 pm,
+Person 8 Wednesday, 03/20/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:15 pm, On Queue 12:45 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 8 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Chat Support 8:30 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Chat Support 2 pm, Break 3 pm, On Queue 3:15 pm
+
+Person 9 Monday, 02/26/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3 pm, On Queue 3:30 pm, Break 6 pm, On Queue 6:15 pm
+Person 9 Tuesday, 02/27/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm
+Person 9 Wednesday, 02/28/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 4 pm, On Queue 4:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 9 Thursday, 02/29/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3 pm, On Queue 3:30 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 9 Friday, 03/01/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 9 Monday, 03/04/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6 pm, On Queue 6:15 pm
+Person 9 Tuesday, 03/05/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 9 Wednesday, 03/06/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3 pm, On Queue 3:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 9 Thursday, 03/07/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm
+Person 9 Friday, 03/08/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 9 Monday, 03/11/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 9 Tuesday, 03/12/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 9 Wednesday, 03/13/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 9 Thursday, 03/14/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 9 Friday, 03/15/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 6 pm, On Queue 6:15 pm
+Person 9 Monday, 03/18/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3 pm, On Queue 3:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 9 Tuesday, 03/19/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5:45 pm, On Queue 6 pm
+Person 9 Wednesday, 03/20/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:15 pm, On Queue 3:45 pm, Meeting 4 pm, On Queue 4:30 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 9 Thursday, 03/21/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 9 Friday, 03/22/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Program Training 2:45 pm, On Queue 4:15 pm, Meal 4:30 pm, On Queue 5 pm, Break 6 pm, On Queue 6:15 pm
+
+Person 10 Monday, 02/26/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9:30 am, On Queue 9:45 am, Meal 10:45 am, On Queue 11:15 am, Break 1:15 pm, On Queue 1:30 pm, Break 3:45 pm, On Queue 4 pm
+Person 10 Tuesday, 02/27/2024, 7 am to 5:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 10:30 am, On Queue 11 am, Break 1:30 pm, On Queue 1:45 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 10 Wednesday, 02/28/2024, 7 am to 5:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 10:45 am, On Queue 11:15 am, Absent 1 pm, On Queue 3:30 pm
+Person 10 Thursday, 02/29/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Meal 10:30 am, On Queue 11 am, Break 1:15 pm, On Queue 1:30 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 10 Saturday, 03/02/2024, 10 am to 6:30 pm: Extra Hours 10 am, Break 12 pm, Extra Hours 12:15 pm, Meal 2:30 pm, Extra Hours 3 pm, Break 4:30 pm, Extra Hours 4:45 pm
+Person 10 Monday, 03/04/2024, 7 am to 5:30 pm: On Queue 7 am, Break 8:45 am, On Queue 9 am, Meal 10:30 am, On Queue 11 am, Break 1:45 pm, On Queue 2 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 10 Tuesday, 03/05/2024, 7 am to 9:30 pm: On Queue 7 am, Break 9 am, On Queue 9:15 am, Meal 10:45 am, On Queue 11:15 am, Break 1 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm, Unavailable 5:30 pm, Extra Hours 6:30 pm
+Person 10 Wednesday, 03/06/2024, 7 am to 9:30 pm: On Queue 7 am, Break 9 am, On Queue 9:15 am, Meal 10:45 am, On Queue 11:15 am, Break 1:45 pm, On Queue 2 pm, Break 3:30 pm, On Queue 3:45 pm, Unavailable 5:30 pm, Extra Hours 6:30 pm
+Person 10 Thursday, 03/07/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9 am, On Queue 9:15 am, Meal 10:30 am, On Queue 11 am, Break 1 pm, On Queue 1:15 pm, Break 3:45 pm, On Queue 4 pm
+Person 10 Monday, 03/11/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Meal 10:45 am, On Queue 11:15 am, Break 2 pm, On Queue 2:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 10 Tuesday, 03/12/2024, 7 am to 5:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Break 3:45 pm, On Queue 4 pm
+Person 10 Wednesday, 03/13/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Meal 10:45 am, On Queue 11:15 am, Break 2 pm, On Queue 2:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 10 Thursday, 03/14/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Meal 10:30 am, On Queue 11 am, Absent 12:45 pm,
+Person 10 Saturday, 03/16/2024, 10 am to 6:30 pm: Extra Hours 10 am, Break 12:15 pm, Extra Hours 12:30 pm, Meal 2:45 pm, Extra Hours 3:15 pm, Break 4:45 pm, Extra Hours 5 pm
+Person 10 Monday, 03/18/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Meal 10:30 am, On Queue 11 am, Break 1:45 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 10 Tuesday, 03/19/2024, 7 am to 5:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 10:45 am, On Queue 11:15 am, Break 1:45 pm, On Queue 2 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 10 Wednesday, 03/20/2024, 7 am to 5:30 pm: On Queue 7 am, Meeting 8 am, On Queue 8:30 am, Break 9:15 am, On Queue 9:30 am, Meal 10:45 am, On Queue 11:15 am, Break 1 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 10 Thursday, 03/21/2024, 7 am to 5:30 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Meal 10:30 am, On Queue 11 am, Break 1:45 pm, On Queue 2 pm, Break 3:15 pm, On Queue 3:30 pm
+
+Person 11 Friday, 03/01/2024, 3 pm to 8 pm: On Queue 3 pm, Break 6 pm, On Queue 6:15 pm
+Person 11 Saturday, 03/02/2024, 7 am to 11 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 6:30 pm, On Queue 6:45 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 11 Sunday, 03/03/2024, 7 am to 11 pm: On Queue 7 am, Break 9 am, On Queue 9:15 am, Break 11:45 am, On Queue 12 pm, Meal 3 pm, On Queue 3:30 pm, Break 5:30 pm, On Queue 5:45 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 11 Friday, 03/08/2024, 3 pm to 8:22 pm: On Queue 3 pm, Absent 3:58 pm, On Queue 8 pm
+Person 11 Saturday, 03/09/2024, 7 am to 11 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 6:30 pm, On Queue 6:45 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 11 Sunday, 03/10/2024, 7 am to 11 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Break 11:45 am, On Queue 12 pm, Meal 3 pm, On Queue 3:30 pm, Break 5:30 pm, On Queue 5:45 pm, Break 8:45 pm, On Queue 9 pm
+Person 11 Friday, 03/15/2024, 3 pm to 8 pm: On Queue 3 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 11 Saturday, 03/16/2024, 7 am to 11 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 6:30 pm, On Queue 6:45 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 11 Sunday, 03/17/2024, 7 am to 11 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Break 11:45 am, On Queue 12 pm, Meal 3 pm, On Queue 3:30 pm, Break 5:30 pm, On Queue 5:45 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 11 Friday, 03/22/2024, 3 pm to 8 pm: Absent 3 pm
+Person 11 Saturday, 03/23/2024, 7 am to 11 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 6:30 pm, On Queue 6:45 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 11 Sunday, 03/24/2024, 7 am to 11 pm: On Queue 7 am, Break 9:15 am, On Queue 9:30 am, Break 11:45 am, On Queue 12 pm, Meal 3 pm, On Queue 3:30 pm, Break 5:30 pm, On Queue 5:45 pm, Break 8:30 pm, On Queue 8:45 pm
+
+Person 12 Monday, 02/26/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10:15 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, Break 2 pm, On Queue 2:15 pm
+Person 12 Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:45 pm, On Queue 3 pm,
+Person 12 Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, Break 2 pm, On Queue 2:15 pm
+Person 12 Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10:15 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:45 pm, On Queue 3 pm
+Person 12 Friday, 03/01/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10:15 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:45 pm, On Queue 3 pm
+Person 12 Monday, 03/04/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:15 pm, On Queue 2:30 pm,
+Person 12 Tuesday, 03/05/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 3 pm, On Queue 3:15 pm,
+Person 12 Wednesday, 03/06/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:45 pm, On Queue 3 pm,
+Person 12 Thursday, 03/07/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:45 pm, On Queue 3 pm,
+Person 12 Friday, 03/08/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:30 pm, On Queue 2:45 pm,
+Person 12 Monday, 03/11/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10:15 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 3 pm, On Queue 3:15 pm
+Person 12 Tuesday, 03/12/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:45 pm, On Queue 3 pm,
+Person 12 Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:30 pm, On Queue 2:45 pm,
+Person 12 Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10 am, On Queue 10:15 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:45 pm, On Queue 3 pm,
+Person 12 Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10 am, On Queue 10:15 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 3 pm, On Queue 3:15 pm,
+Person 12 Monday, 03/18/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:30 pm, On Queue 2:45 pm,
+Person 12 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10 am, On Queue 10:15 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, Meeting 2 pm, On Queue 2:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 12 Wednesday, 03/20/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:15 pm, On Queue 2:30 pm,
+Person 12 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, On Queue 2 pm, Break 2:15 pm, On Queue 2:30 pm,
+Person 12 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Chat Support 10:30 am, Meal 12 pm, On Queue 12:30 pm, Chat Support 1 pm, Program Training 1:30 pm, Break 3 pm, On Queue 3:15 pm,
+
+Person 13 Wednesday, 02/28/2024, 11 pm to 7:30 am: Absent 11 pm, On Queue 1:29 am, Meal 2:30 am, On Queue 3 am, Break 5:15 am, On Queue 5:30 am,
+Person 13 Thursday, 02/29/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1 am, On Queue 1:15 am, Meal 2:30 am, On Queue 3 am, Break 5 am, On Queue 5:15 am
+Person 13 Friday, 03/01/2024, 11 pm to 7:30 am: Absent 11 pm, On Queue 11:27 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 5:30 am, On Queue 5:45 am
+Person 13 Saturday, 03/02/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1 am, On Queue 1:15 am, Meal 3 am, On Queue 3:30 am, Break 5:15 am, On Queue 5:30 am
+Person 13 Sunday, 03/03/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:15 am, On Queue 3:45 am, Break 6 am, On Queue 6:15 am
+Person 13 Wednesday, 03/06/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1 am, On Queue 1:15 am, Meal 2:30 am, On Queue 3 am, Break 5:30 am, On Queue 5:45 am
+Person 13 Thursday, 03/07/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1 am, On Queue 1:15 am, Meal 3 am, On Queue 3:30 am, Break 6 am, On Queue 6:15 am
+Person 13 Friday, 03/08/2024, 11 pm to 6 pm: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 5:45 am, On Queue 6 am, Split 7:30 am, Extra Hours 11 am, Break 12:45 pm, Extra Hours 1 pm, Meal 3:30 pm, Extra Hours 4 pm
+Person 13 Saturday, 03/09/2024, 11 pm to 8:30 am: On Queue 11 pm, Break 1 am, On Queue 1:15 am, Meal 4 am, On Queue 4:30 am, Break 6:15 am, On Queue 6:30 am
+Person 13 Sunday, 03/10/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:15 am, On Queue 3:45 am, Break 6 am, On Queue 6:15 am
+Person 13 Wednesday, 03/13/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 5:30 am, On Queue 5:45 am
+Person 13 Thursday, 03/14/2024, 11 pm to 7:30 am: Absent 11 pm
+Person 13 Friday, 03/15/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 5 am, On Queue 5:15 am
+Person 13 Saturday, 03/16/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1 am, On Queue 1:15 am, Meal 3 am, On Queue 3:30 am, Break 5:15 am, On Queue 5:30 am
+Person 13 Sunday, 03/17/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:15 am, On Queue 3:45 am, Break 6 am, On Queue 6:15 am
+Person 13 Wednesday, 03/20/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3 am, On Queue 3:30 am, Break 5:45 am, On Queue 6 am
+Person 13 Thursday, 03/21/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 1:30 am, On Queue 1:45 am, Meal 3:15 am, On Queue 3:45 am, Break 5 am, On Queue 5:15 am, Meeting 6 am, On Queue 6:30 am
+Person 13 Friday, 03/22/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3 am, Absent 3:27 am
+Person 13 Saturday, 03/23/2024, 11 pm to 7:30 am: Absent 11 pm
+Person 13 Sunday, 03/24/2024, 11 pm to 7:30 am: Absent 11 pm
+
+Person 14 Monday, 02/26/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Tuesday, 02/27/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 14 Wednesday, 02/28/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 4 pm, On Queue 4:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 14 Thursday, 02/29/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Friday, 03/01/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Monday, 03/04/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Tuesday, 03/05/2024, full day off - Absent
+Person 14 Wednesday, 03/06/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3 pm, On Queue 3:30 pm, Break 6 pm, On Queue 6:15 pm
+Person 14 Thursday, 03/07/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 4 pm, On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Friday, 03/08/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:30 pm, On Queue 4 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Monday, 03/11/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:30 pm, On Queue 6:45 pm
+Person 14 Tuesday, 03/12/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Wednesday, 03/13/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 14 Thursday, 03/14/2024, 11:30 am to 8 pm: Absent 11:30 am, On Queue 12:10 pm, Break 1 pm, On Queue 1:15 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 5:45 pm, On Queue 6 pm
+Person 14 Friday, 03/15/2024, 11:30 am to 8 pm: On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm, Meal 3:45 pm, On Queue 4:15 pm, Break 6:15 pm, On Queue 6:30 pm
+Person 14 Monday, 03/18/2024, 8 am to 5 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, Time Off 3 pm
+Person 14 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 14 Wednesday, 03/20/2024, 8 am to 4:30 pm: On Queue 8 am, Meeting 10 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 14 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 14 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am, Meal 12:30 pm, On Queue 1 pm, Program Training 1:30 pm, On Queue 3 pm, Break 3:15 pm, On Queue 3:30 pm, Absent 4:05 pm,
+
+Person 15 Thursday, 02/29/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 6:30 am, On Queue 6:45 am, Break 8:15 am, On Queue 8:30 am
+Person 15 Friday, 03/01/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 6:15 am, On Queue 6:30 am, Break 8:30 am, On Queue 8:45 am
+Person 15 Saturday, 03/02/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am, Break 8:45 am, On Queue 9 am
+Person 15 Sunday, 03/03/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 6 am, On Queue 6:15 am, Break 8 am, On Queue 8:15 am
+Person 15 Thursday, 03/07/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 3:30 am, On Queue 4 am, Break 6:30 am, On Queue 6:45 am, Break 8:15 am, On Queue 8:30 am
+Person 15 Friday, 03/08/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 3:30 am, On Queue 4 am, Break 6 am, On Queue 6:15 am, Break 8 am, On Queue 8:15 am
+Person 15 Saturday, 03/09/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am, Break 8:45 am, On Queue 9 am
+Person 15 Sunday, 03/10/2024, 12 am to 11:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 8 am, On Queue 8:15 am, Break 9:15 am, On Queue 9:30 am
+Person 15 Thursday, 03/14/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 6:30 am, On Queue 6:45 am, Break 8 am, On Queue 8:15 am
+Person 15 Friday, 03/15/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 6:30 am, On Queue 6:45 am, Break 8:15 am, On Queue 8:30 am
+Person 15 Saturday, 03/16/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am, Break 8:45 am, On Queue 9 am
+Person 15 Sunday, 03/17/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am, Break 8:45 am, On Queue 9 am
+Person 15 Thursday, 03/21/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 3:30 am, On Queue 4 am, Break 6:30 am, On Queue 6:45 am, Break 8 am, On Queue 8:15 am
+Person 15 Friday, 03/22/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Meeting 6 am, On Queue 6:30 am, Break 9 am, On Queue 9:15 am
+Person 15 Saturday, 03/23/2024, 12 am to 10:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am, Break 8:45 am, On Queue 9 am
+Person 15 Sunday, 03/24/2024, 12 am to 10:30 am: Absent 12 am, On Queue 1:29 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am, Break 8:45 am, On Queue 9 am,
+
+Person 16 Monday, 02/26/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 5 pm, On Queue 5:15 pm
+Person 16 Tuesday, 02/27/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:45 pm, On Queue 2:15 pm, Break 5 pm, On Queue 5:15 pm
+Person 16 Wednesday, 02/28/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 16 Thursday, 02/29/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Friday, 03/01/2024, full day off - Time Off
+Person 16 Monday, 03/04/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Tuesday, 03/05/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Wednesday, 03/06/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Thursday, 03/07/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 16 Friday, 03/08/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 16 Monday, 03/11/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:15 pm, On Queue 2:45 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 16 Tuesday, 03/12/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Wednesday, 03/13/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Thursday, 03/14/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 16 Friday, 03/15/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Monday, 03/18/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Tuesday, 03/19/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Wednesday, 03/20/2024, 10 am to 6:30 pm: Meeting 10 am, On Queue 10:30 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 16 Thursday, 03/21/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:45 pm, On Queue 5 pm
+Person 16 Friday, 03/22/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 5 pm, On Queue 5:15 pm
+
+Person 17 Monday, 02/26/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, Meal 6 pm, On Queue 6:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 17 Tuesday, 02/27/2024, full day off - Absent
+Person 17 Wednesday, 02/28/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:45 pm, On Queue 9 pm
+Person 17 Thursday, 02/29/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 17 Friday, 03/01/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 17 Monday, 03/04/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 17 Tuesday, 03/05/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 17 Wednesday, 03/06/2024, full day off - Absent
+Person 17 Thursday, 03/07/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 8:45 pm, On Queue 9 pm
+Person 17 Friday, 03/08/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 17 Monday, 03/11/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, Meal 6 pm, On Queue 6:30 pm, Break 8:45 pm, On Queue 9 pm
+Person 17 Tuesday, 03/12/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 17 Wednesday, 03/13/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 17 Thursday, 03/14/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 6:30 pm, On Queue 7 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 17 Friday, 03/15/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 17 Monday, 03/18/2024, 2:30 pm to 11 pm: Absent 2:30 pm, On Queue 3 pm, Break 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 17 Tuesday, 03/19/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 17 Wednesday, 03/20/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 17 Thursday, 03/21/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 17 Friday, 03/22/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Meeting 3 pm, Break 3:30 pm, On Queue 3:45 pm, Chat Support 4 pm, On Queue 6 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm,
+
+Person 18 Monday, 02/26/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 18 Tuesday, 02/27/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 18 Wednesday, 02/28/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 18 Thursday, 02/29/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 5 pm, On Queue 5:15 pm
+Person 18 Friday, 03/01/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 18 Monday, 03/04/2024, full day off - Time Off
+Person 18 Tuesday, 03/05/2024, full day off - Time Off
+Person 18 Wednesday, 03/06/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 18 Thursday, 03/07/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 18 Friday, 03/08/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:45 pm, On Queue 2:15 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 18 Monday, 03/11/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 18 Tuesday, 03/12/2024, full day off - Absent
+Person 18 Wednesday, 03/13/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 4 pm, On Queue 4:15 pm
+Person 18 Thursday, 03/14/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 18 Friday, 03/15/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 5 pm, On Queue 5:15 pm
+Person 18 Monday, 03/18/2024, 10 am to 6:30 pm: On Queue 10 am, Absent 10:27 am,
+Person 18 Tuesday, 03/19/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:45 pm, On Queue 5 pm
+Person 18 Wednesday, 03/20/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:15 pm, On Queue 2:45 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 18 Thursday, 03/21/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Meeting 3:30 pm, On Queue 4 pm, Break 4:45 pm, On Queue 5 pm
+Person 18 Friday, 03/22/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Program Training 3:30 pm, Break 5 pm, On Queue 5:15 pm
+
+Person 19 Monday, 02/26/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12:15 am, On Queue 12:30 am, Meal 3 am, On Queue 3:30 am, Break 5:30 am, On Queue 5:45 am
+Person 19 Thursday, 02/29/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5:30 am, On Queue 5:45 am
+Person 19 Friday, 03/01/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2:30 am, On Queue 3 am, Break 5:15 am, On Queue 5:30 am
+Person 19 Saturday, 03/02/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5 am, On Queue 5:15 am
+Person 19 Sunday, 03/03/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2:45 am, On Queue 3:15 am, Break 5:15 am, On Queue 5:30 am
+Person 19 Monday, 03/04/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12:15 am, On Queue 12:30 am, Meal 3 am, On Queue 3:30 am, Break 5:30 am, On Queue 5:45 am
+Person 19 Thursday, 03/07/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 4:30 am, On Queue 4:45 am
+Person 19 Friday, 03/08/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5 am, On Queue 5:15 am
+Person 19 Saturday, 03/09/2024, 10:30 pm to 8 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 3 am, On Queue 3:30 am, Break 6 am, On Queue 6:15 am
+Person 19 Sunday, 03/10/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2:45 am, On Queue 3:15 am, Break 5:15 am, On Queue 5:30 am
+Person 19 Monday, 03/11/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12:15 am, On Queue 12:30 am, Meal 3 am, On Queue 3:30 am, Break 4:45 am, On Queue 5 am
+Person 19 Thursday, 03/14/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5:30 am, On Queue 5:45 am
+Person 19 Friday, 03/15/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5:15 am, On Queue 5:30 am
+Person 19 Saturday, 03/16/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5 am, On Queue 5:15 am
+Person 19 Sunday, 03/17/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2:45 am, On Queue 3:15 am, Break 5:15 am, On Queue 5:30 am
+Person 19 Monday, 03/18/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5:30 am, On Queue 5:45 am
+Person 19 Thursday, 03/21/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2:15 am, On Queue 2:45 am, Break 4:45 am, On Queue 5 am, Meeting 6 am, On Queue 6:30 am
+Person 19 Friday, 03/22/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5 am, On Queue 5:15 am
+Person 19 Saturday, 03/23/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 5 am, On Queue 5:15 am
+Person 19 Sunday, 03/24/2024, 10:30 pm to 7 am: On Queue 10:30 pm, Break 12 am, On Queue 12:15 am, Meal 2:45 am, On Queue 3:15 am, Break 5:15 am, On Queue 5:30 am
+
+Person 20 Monday, 02/26/2024, full day off - Leave
+Person 20 Tuesday, 02/27/2024, full day off - Absent
+Person 20 Wednesday, 02/28/2024, full day off - Absent
+Person 20 Thursday, 02/29/2024, full day off - Absent
+Person 20 Friday, 03/01/2024, full day off - Absent
+Person 20 Monday, 03/04/2024, full day off - Absent
+Person 20 Tuesday, 03/05/2024, full day off - Absent
+Person 20 Wednesday, 03/06/2024, full day off - Absent
+Person 20 Thursday, 03/07/2024, full day off - Absent
+Person 20 Friday, 03/08/2024, full day off - Absent
+Person 20 Monday, 03/11/2024, full day off - Leave
+Person 20 Tuesday, 03/12/2024, full day off - Leave
+Person 20 Wednesday, 03/13/2024, full day off - Leave
+Person 20 Thursday, 03/14/2024, full day off - Leave
+Person 20 Friday, 03/15/2024, full day off - Leave
+Person 20 Monday, 03/18/2024, full day off - Leave
+Person 20 Tuesday, 03/19/2024, full day off - Leave
+Person 20 Wednesday, 03/20/2024, full day off - Leave
+Person 20 Thursday, 03/21/2024, full day off - Leave
+Person 20 Friday, 03/22/2024, full day off - Leave
+
+Person 21 Wednesday, 02/28/2024, 6 am to 3 pm: On Queue 6 am, Break 8:15 am, On Queue 8:30 am, Meal 10:45 am, On Queue 11:15 am, Break 12:45 pm, On Queue 1 pm
+Person 21 Thursday, 02/29/2024, 6 am to 3 pm: On Queue 6 am, Break 8:15 am, On Queue 8:30 am, Meal 10:30 am, On Queue 11 am, Break 12:45 pm, On Queue 1 pm
+Person 21 Saturday, 03/02/2024, 6 am to 6 pm: On Queue 6 am, Break 8:30 am, On Queue 8:45 am, Meal 10 am, On Queue 10:30 am, Break 1:15 pm, On Queue 1:30 pm, Break 4 pm, On Queue 4:15 pm
+Person 21 Sunday, 03/03/2024, 6 am to 6 pm: On Queue 6 am, Break 8:15 am, On Queue 8:30 am, Meal 11 am, On Queue 11:30 am, Break 2 pm, On Queue 2:15 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 21 Wednesday, 03/06/2024, 6 am to 3 pm: On Queue 6 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 12:30 pm, On Queue 12:45 pm
+Person 21 Thursday, 03/07/2024, 6 am to 3 pm: On Queue 6 am, Break 7:45 am, On Queue 8 am, Meal 10:15 am, On Queue 10:45 am, Break 12:45 pm, On Queue 1 pm
+Person 21 Saturday, 03/09/2024, 6 am to 6 pm: On Queue 6 am, Break 8:30 am, On Queue 8:45 am, Meal 10 am, On Queue 10:30 am, Break 1:15 pm, On Queue 1:30 pm, Break 4 pm, On Queue 4:15 pm
+Person 21 Sunday, 03/10/2024, 6 am to 6 pm: On Queue 6 am, Break 8:15 am, On Queue 8:30 am, Meal 11 am, On Queue 11:30 am, Break 1:45 pm, On Queue 2 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 21 Wednesday, 03/13/2024, 6 am to 3 pm: On Queue 6 am, Break 8:15 am, On Queue 8:30 am, Meal 10:15 am, On Queue 10:45 am, Break 1:15 pm, On Queue 1:30 pm
+Person 21 Thursday, 03/14/2024, 6 am to 3 pm: On Queue 6 am, Break 7:45 am, On Queue 8 am, Meal 10:15 am, On Queue 10:45 am, Break 1:15 pm, On Queue 1:30 pm
+Person 21 Saturday, 03/16/2024, 6 am to 6 pm: On Queue 6 am, Break 8:30 am, On Queue 8:45 am, Meal 10 am, On Queue 10:30 am, Break 1:15 pm, On Queue 1:30 pm, Break 4 pm, On Queue 4:15 pm
+Person 21 Sunday, 03/17/2024, 6 am to 6 pm: On Queue 6 am, Break 8:30 am, On Queue 8:45 am, Meal 10:30 am, On Queue 11 am, Break 1:45 pm, On Queue 2 pm, Break 4 pm, On Queue 4:15 pm
+Person 21 Wednesday, 03/20/2024, 6 am to 3 pm: On Queue 6 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 12:30 pm, On Queue 12:45 pm
+Person 21 Thursday, 03/21/2024, 6 am to 3 pm: On Queue 6 am, Break 7:45 am, Program Training 8 am, On Queue 9:30 am, Meal 10:15 am, On Queue 10:45 am, Break 12:45 pm, On Queue 1 pm
+Person 21 Saturday, 03/23/2024, 6 am to 6 pm: On Queue 6 am, Break 8:30 am, On Queue 8:45 am, Meal 10 am, On Queue 10:30 am, Break 1:15 pm, On Queue 1:30 pm, Break 4 pm, On Queue 4:15 pm
+Person 21 Sunday, 03/24/2024, 6 am to 6 pm: On Queue 6 am, Break 8:30 am, On Queue 8:45 am, Meal 10:30 am, On Queue 11 am, Break 1:45 pm, On Queue 2 pm, Break 4 pm, On Queue 4:15 pm
+
+Person 22 (inactive) Tuesday, 02/27/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3:30 am, On Queue 4 am, Break 5:15 am, On Queue 5:30 am
+Person 22 (inactive) Wednesday, 02/28/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Thursday, 02/29/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Friday, 03/01/2024, 11 pm to 6:30 pm: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 2:30 am, On Queue 3 am, Break 5:45 am, On Queue 6 am, Unavailable 7:30 am, Extra Hours 10 am, Break 12:30 pm, Extra Hours 12:45 pm, Meal 2:45 pm, Extra Hours 3:15 pm, Break 4:45 pm, Extra Hours 5 pm
+Person 22 (inactive) Saturday, 03/02/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 2:30 am, On Queue 3 am, Break 5:30 am, On Queue 5:45 am
+Person 22 (inactive) Tuesday, 03/05/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3 am, On Queue 3:30 am, Break 5 am, On Queue 5:15 am, Absent 6:32 am
+Person 22 (inactive) Wednesday, 03/06/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3:30 am, On Queue 4 am, Break 5:45 am, On Queue 6 am
+Person 22 (inactive) Thursday, 03/07/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 2:30 am, On Queue 3 am, Break 5 am, On Queue 5:15 am
+Person 22 (inactive) Friday, 03/08/2024, 11 pm to 7:30 am: Absent 11 pm
+Person 22 (inactive) Saturday, 03/09/2024, 11 pm to 8:30 am: Absent 11 pm
+Person 22 (inactive) Tuesday, 03/12/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Wednesday, 03/13/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Thursday, 03/14/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Friday, 03/15/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Saturday, 03/16/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Tuesday, 03/19/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Wednesday, 03/20/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Thursday, 03/21/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Friday, 03/22/2024, 11 pm to 7:30 am: NCNS 11 pm
+Person 22 (inactive) Saturday, 03/23/2024, 11 pm to 7:30 am: NCNS 11 pm
+
+Person 23 Tuesday, 02/27/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3 am, On Queue 3:30 am, Break 5 am, On Queue 5:15 am
+Person 23 Wednesday, 02/28/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3 am, On Queue 3:30 am, Break 5:45 am, On Queue 6 am
+Person 23 Thursday, 02/29/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3:30 am, On Queue 4 am, Break 5:45 am, On Queue 6 am
+Person 23 Friday, 03/01/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3 am, On Queue 3:30 am, Break 5 am, On Queue 5:15 am
+Person 23 Saturday, 03/02/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3:30 am, On Queue 4 am, Break 5:45 am, On Queue 6 am
+Person 23 Tuesday, 03/05/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3:30 am, On Queue 4 am, Break 5:15 am, On Queue 5:30 am
+Person 23 Wednesday, 03/06/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3 am, On Queue 3:30 am, Break 6 am, On Queue 6:15 am
+Person 23 Thursday, 03/07/2024, 11 pm to 7:30 am: Time Off 11 pm
+Person 23 Friday, 03/08/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3 am, On Queue 3:30 am, Break 5:30 am, On Queue 5:45 am
+Person 23 Saturday, 03/09/2024, 11 pm to 8:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3:30 am, On Queue 4 am, Break 6:30 am, On Queue 6:45 am
+Person 23 Tuesday, 03/12/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3:30 am, On Queue 4 am, Break 5:45 am, On Queue 6 am
+Person 23 Wednesday, 03/13/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 2:45 am, On Queue 3:15 am, Break 5:15 am, On Queue 5:30 am
+Person 23 Thursday, 03/14/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3:30 am, On Queue 4 am, Break 5:15 am, On Queue 5:30 am
+Person 23 Friday, 03/15/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 2:30 am, On Queue 3 am, Break 5:45 am, On Queue 6 am
+Person 23 Saturday, 03/16/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3:30 am, On Queue 4 am, Break 5:45 am, On Queue 6 am
+Person 23 Tuesday, 03/19/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3 am, On Queue 3:30 am, Break 5:45 am, On Queue 6 am
+Person 23 Wednesday, 03/20/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3:15 am, On Queue 3:45 am, Break 5:15 am, On Queue 5:30 am, Meeting 6 am, On Queue 6:30 am, Program Training 6:45 am,
+Person 23 Thursday, 03/21/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3:30 am, On Queue 4 am, Break 5:30 am, On Queue 5:45 am
+Person 23 Friday, 03/22/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:30 am, On Queue 12:45 am, Meal 3:30 am, On Queue 4 am, Break 5:30 am, On Queue 5:45 am
+Person 23 Saturday, 03/23/2024, 11 pm to 7:30 am: On Queue 11 pm, Break 12:45 am, On Queue 1 am, Meal 3:30 am, On Queue 4 am, Break 5:45 am, On Queue 6 am
+
+Person 24 Monday, 02/26/2024, 9:30 am to 6 pm: Absent 9:30 am, On Queue 11 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 24 Tuesday, 02/27/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 2 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 24 Wednesday, 02/28/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 2 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 24 Thursday, 02/29/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:30 pm, On Queue 2 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 24 Friday, 03/01/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 2 pm, On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 24 Monday, 03/04/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 1:15 pm, On Queue 1:45 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 24 Tuesday, 03/05/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 24 Wednesday, 03/06/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 24 Thursday, 03/07/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 2 pm, On Queue 2:30 pm, Break 3:45 pm, On Queue 4 pm
+Person 24 Friday, 03/08/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 24 Monday, 03/11/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 2 pm, On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm
+Person 24 Tuesday, 03/12/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1 pm, On Queue 1:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 24 Wednesday, 03/13/2024, 9:30 am to 6 pm: Absent 9:30 am, On Queue 11 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 24 Thursday, 03/14/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:45 pm, On Queue 2:15 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 24 Friday, 03/15/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 2 pm, On Queue 2:30 pm, Break 3:45 pm, On Queue 4 pm
+Person 24 Monday, 03/18/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 24 Tuesday, 03/19/2024, 9:30 am to 6 pm: Meeting 9:30 am, On Queue 10 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 24 Wednesday, 03/20/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:15 pm, On Queue 1:45 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 24 Thursday, 03/21/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 24 Friday, 03/22/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 4:30 pm, On Queue 4:45 pm
+
+Person 25 Monday, 02/26/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 6:30 am, On Queue 6:45 am
+Person 25 Tuesday, 02/27/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Wednesday, 02/28/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4 am, On Queue 4:30 am, Break 7 am, On Queue 7:15 am
+Person 25 Thursday, 02/29/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 4:30 am, On Queue 5 am, Break 6:45 am, On Queue 7 am
+Person 25 Friday, 03/01/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 4:30 am, On Queue 5 am, Break 6 am, On Queue 6:15 am
+Person 25 Monday, 03/04/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am
+Person 25 Tuesday, 03/05/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 3:30 am, On Queue 4 am, Break 7 am, On Queue 7:15 am
+Person 25 Wednesday, 03/06/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Thursday, 03/07/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 6:45 am, On Queue 7 am
+Person 25 Friday, 03/08/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 6:15 am, On Queue 6:30 am
+Person 25 Monday, 03/11/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Tuesday, 03/12/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Wednesday, 03/13/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Thursday, 03/14/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 4:30 am, On Queue 5 am, Break 6:45 am, On Queue 7 am
+Person 25 Friday, 03/15/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 4:30 am, On Queue 5 am, Break 6:45 am, On Queue 7 am
+Person 25 Monday, 03/18/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Tuesday, 03/19/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Wednesday, 03/20/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 7 am, On Queue 7:15 am
+Person 25 Thursday, 03/21/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:30 am, On Queue 1:45 am, Meal 4:30 am, On Queue 5 am, Break 6:45 am, On Queue 7 am
+Person 25 Friday, 03/22/2024, 12 am to 8:30 am: On Queue 12 am, Break 1:45 am, On Queue 2 am, Meal 4:30 am, On Queue 5 am, Meeting 6 am, On Queue 6:30 am, Break 6:45 am, On Queue 7 am
+
+Person 26 Tuesday, 02/27/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm, Meal 6:30 pm, On Queue 7 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 26 Wednesday, 02/28/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 26 Thursday, 02/29/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:45 pm, On Queue 9 pm
+Person 26 Friday, 03/01/2024, 2:30 pm to 11 pm: Absent 2:30 pm, On Queue 2:45 pm, Break 4:30 pm, On Queue 4:45 pm, Meal 6:30 pm, On Queue 7 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 26 Saturday, 03/02/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 26 Tuesday, 03/05/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 26 Wednesday, 03/06/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 26 Thursday, 03/07/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 26 Friday, 03/08/2024, full day off - Absent
+Person 26 Saturday, 03/09/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 26 Tuesday, 03/12/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 8:45 pm, On Queue 9 pm
+Person 26 Wednesday, 03/13/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6 pm, Program Training 6:30 pm, On Queue 8:30 pm, Break 9:45 pm, On Queue 10 pm
+Person 26 Thursday, 03/14/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6 pm, Program Training 6:30 pm, On Queue 8:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 26 Friday, 03/15/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 5 pm, On Queue 5:15 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 26 Saturday, 03/16/2024, 1:30 pm to 10 pm: Absent 1:30 pm
+Person 26 Tuesday, 03/19/2024, 2:30 pm to 11 pm: Program Training 2:30 pm, Break 4:30 pm, On Queue 4:45 pm, Meal 6 pm, On Queue 6:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 26 Wednesday, 03/20/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 26 Thursday, 03/21/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 26 Friday, 03/22/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Meeting 3 pm, On Queue 3:30 pm, Break 5 pm, On Queue 5:15 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 26 Saturday, 03/23/2024, 1:30 pm to 10 pm: On Queue 1:30 pm, Break 3 pm, On Queue 3:15 pm, Meal 6 pm, On Queue 6:30 pm, Break 8:30 pm, On Queue 8:45 pm
+
+Person 27 Tuesday, 02/27/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:30 am, On Queue 12 pm, Break 2:15 pm, On Queue 2:30 pm, Break 5 pm, On Queue 5:15 pm
+Person 27 Wednesday, 02/28/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm, Time Off 4 pm
+Person 27 Thursday, 02/29/2024, 8 am to 6:30 pm: On Queue 8 am, Break 10 am, On Queue 10:15 am, Meal 11:30 am, On Queue 12 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Friday, 03/01/2024, 8 am to 6:30 pm: On Queue 8 am, Break 10 am, On Queue 10:15 am, Meal 11:45 am, On Queue 12:15 pm, Break 2 pm, On Queue 2:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Saturday, 03/02/2024, 9 am to 2 pm: On Queue 9 am, Break 11:30 am, On Queue 11:45 am
+Person 27 Tuesday, 03/05/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 27 Wednesday, 03/06/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Thursday, 03/07/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Friday, 03/08/2024, 8 am to 6:30 pm: On Queue 8 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Tuesday, 03/12/2024, full day off - Absent
+Person 27 Wednesday, 03/13/2024, 8 am to 6:30 pm: Absent 8 am
+Person 27 Thursday, 03/14/2024, 8 am to 6:30 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:30 pm, On Queue 2:45 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Friday, 03/15/2024, 8 am to 6:30 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Tuesday, 03/19/2024, 8 am to 6:30 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 27 Wednesday, 03/20/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:30 am, On Queue 12 pm, Break 2 pm, On Queue 2:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 27 Thursday, 03/21/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 27 Friday, 03/22/2024, 8 am to 6:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2 pm, On Queue 2:15 pm, Break 4:45 pm, On Queue 5 pm
+
+Person 28 Monday, 02/26/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 2:45 pm, On Queue 3 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Tuesday, 02/27/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 2:45 pm, On Queue 3 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Wednesday, 02/28/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 1:30 pm, On Queue 1:45 pm, Meal 3:40 pm, On Queue 4:10 pm, Break 4:50 pm, On Queue 5:05 pm
+Person 28 Thursday, 02/29/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:15 pm, On Queue 3:30 pm, Absent 4 pm
+Person 28 Friday, 03/01/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 2:45 pm, On Queue 3 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Monday, 03/04/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:15 pm, On Queue 3:30 pm, Meal 5:30 pm, On Queue 6 pm, Absent 6:01 pm,
+Person 28 Tuesday, 03/05/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 2:15 pm, On Queue 2:30 pm, Meal 5:30 pm, On Queue 6 pm
+Person 28 Wednesday, 03/06/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 1:30 pm, On Queue 1:45 pm, Meal 3:40 pm, On Queue 4:10 pm, Break 4:50 pm, On Queue 5:05 pm
+Person 28 Thursday, 03/07/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:45 pm, On Queue 4 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Friday, 03/08/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:15 pm, On Queue 3:30 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Monday, 03/11/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3 pm, On Queue 3:15 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Tuesday, 03/12/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 2:15 pm, On Queue 2:30 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Wednesday, 03/13/2024, 12 pm to 8:30 pm: On Queue 12 pm, Time Off 1:30 pm, Absent 3:30 pm, On Queue 4 pm, Break 6:15 pm, On Queue 6:30 pm,
+Person 28 Thursday, 03/14/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:45 pm, On Queue 4 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Friday, 03/15/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:45 pm, Time Off 4 pm
+Person 28 Monday, 03/18/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 2:45 pm, On Queue 3 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Tuesday, 03/19/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:15 pm, On Queue 3:30 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+Person 28 Wednesday, 03/20/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 1:30 pm, On Queue 1:45 pm, Meal 3:40 pm, On Queue 4:10 pm, Break 4:50 pm, On Queue 5:05 pm
+Person 28 Thursday, 03/21/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:15 pm, Meeting 3:30 pm, On Queue 4 pm, Absent 4:35 pm
+Person 28 Friday, 03/22/2024, 12 pm to 8:30 pm: On Queue 12 pm, Break 3:15 pm, On Queue 3:30 pm, Meal 5:30 pm, On Queue 6 pm, Break 6:40 pm, On Queue 6:55 pm
+
+Person 29 Tuesday, 02/27/2024, 8:30 am to 7 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:30 pm, On Queue 2:45 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 29 Wednesday, 02/28/2024, 8:30 am to 7 pm: On Queue 8:30 am, Break 11 am, On Queue 11:15 am, Meal 12:30 pm, On Queue 1 pm, Break 3 pm, On Queue 3:15 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 29 Thursday, 02/29/2024, 8:30 am to 7 pm: On Queue 8:30 am, Break 10:45 am, On Queue 11 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3 pm, On Queue 3:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 29 Saturday, 03/02/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 29 Tuesday, 03/05/2024, 8:30 am to 7 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3:15 pm, On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 29 Wednesday, 03/06/2024, 8:30 am to 7 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 2:30 pm, On Queue 2:45 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 29 Thursday, 03/07/2024, 8:30 am to 7 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 29 Saturday, 03/09/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 29 Tuesday, 03/12/2024, 8:30 am to 7 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:30 pm, On Queue 2:45 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 29 Wednesday, 03/13/2024, 8:30 am to 7 pm: On Queue 8:30 am, Program Training 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:15 pm, On Queue 3:30 pm, Absent 3:47 pm
+Person 29 Thursday, 03/14/2024, 8:30 am to 7 pm: Absent 8:30 am
+Person 29 Monday, 03/18/2024, 8:30 am to 7 pm: Absent 8:30 am
+Person 29 Tuesday, 03/19/2024, 8:30 am to 7 pm: Absent 8:30 am
+Person 29 Wednesday, 03/20/2024, 8:30 am to 7 pm: Absent 8:30 am
+Person 29 Thursday, 03/21/2024, 8:30 am to 7 pm: Absent 8:30 am
+
+Person 30 Monday, 02/26/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 4:45 pm, On Queue 5 pm
+Person 30 Tuesday, 02/27/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 30 Wednesday, 02/28/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 30 Thursday, 02/29/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 30 Sunday, 03/03/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 30 Monday, 03/04/2024, full day off - Absent
+Person 30 Tuesday, 03/05/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 30 Wednesday, 03/06/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 30 Thursday, 03/07/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Absent 12:10 pm, On Queue 2:42 pm
+Person 30 Sunday, 03/10/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Absent 12:46 pm, On Queue 4:20 pm, Break 5 pm, On Queue 5:15 pm
+Person 30 Monday, 03/11/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 30 Tuesday, 03/12/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 30 Wednesday, 03/13/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Absent 2:42 pm, On Queue 3:30 pm
+Person 30 Thursday, 03/14/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 30 Sunday, 03/17/2024, 10 am to 6:30 pm: Absent 10 am
+Person 30 Monday, 03/18/2024, 10 am to 6:30 pm: Absent 10 am
+Person 30 Tuesday, 03/19/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:45 pm, On Queue 5 pm
+Person 30 Wednesday, 03/20/2024, 10 am to 6:30 pm: Meeting 10 am, On Queue 10:30 am, Break 11:30 am, On Queue 11:45 am, NCNS 1:44 pm
+Person 30 Thursday, 03/21/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 30 Sunday, 03/24/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, Absent 2:33 pm
+
+Person 31 Monday, 02/26/2024, full day off - Time Off
+Person 31 Tuesday, 02/27/2024, 8:30 am to 5 pm: Time Off 8:30 am, On Queue 10:15 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm,
+Person 31 Wednesday, 02/28/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 1 pm, On Queue 1:30 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 31 Thursday, 02/29/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 1 pm, On Queue 1:30 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 31 Friday, 03/01/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 1 pm, On Queue 1:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 31 Monday, 03/04/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 31 Tuesday, 03/05/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12 pm, On Queue 12:30 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 31 Wednesday, 03/06/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 31 Thursday, 03/07/2024, 8:30 am to 5 pm: Time Off 8:30 am, On Queue 11:55 am, Break 3:15 pm, On Queue 3:30 pm
+Person 31 Friday, 03/08/2024, full day off - Absent
+Person 31 Monday, 03/11/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 31 Tuesday, 03/12/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12:30 pm, On Queue 1 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 31 Wednesday, 03/13/2024, full day off - Time Off
+Person 31 Thursday, 03/14/2024, full day off - Time Off
+Person 31 Friday, 03/15/2024, full day off - Time Off
+Person 31 Monday, 03/18/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:30 pm, On Queue 1 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 31 Tuesday, 03/19/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 31 Wednesday, 03/20/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 31 Thursday, 03/21/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 31 Friday, 03/22/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3:15 pm, On Queue 3:30 pm
+
+Person 32 Monday, 02/26/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Tuesday, 02/27/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Wednesday, 02/28/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Thursday, 02/29/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Friday, 03/01/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Monday, 03/04/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Tuesday, 03/05/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Wednesday, 03/06/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Thursday, 03/07/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Friday, 03/08/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Monday, 03/11/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Tuesday, 03/12/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Absent 11:05 am
+Person 32 Wednesday, 03/13/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Thursday, 03/14/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Friday, 03/15/2024, full day off - Time Off
+Person 32 Monday, 03/18/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Tuesday, 03/19/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm
+Person 32 Wednesday, 03/20/2024, 8 am to 1 pm: On Queue 8 am, Accommodation 9:30 am, Meeting 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm,
+Person 32 Thursday, 03/21/2024, 8 am to 1 pm: Absent 8 am
+Person 32 Friday, 03/22/2024, 8 am to 1 pm: Absent 8 am
+
+Person 33 Monday, 02/26/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 4:30 am, On Queue 4:45 am, Break 5:45 am, On Queue 6 am
+Person 33 Tuesday, 02/27/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:45 pm, On Queue 12 am, Meal 2 am, On Queue 2:30 am, Break 4 am, On Queue 4:15 am, Break 5:30 am, On Queue 5:45 am
+Person 33 Wednesday, 02/28/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 12 am, On Queue 12:15 am, Meal 1:15 am, On Queue 1:45 am, Break 4 am, On Queue 4:15 am, Break 5:30 am, On Queue 5:45 am
+Person 33 Saturday, 03/02/2024, 10 am to 6:30 pm: Extra Hours 10 am, Break 12:15 pm, Extra Hours 12:30 pm, Meal 2:45 pm, Extra Hours 3:15 pm, Break 4:45 pm, Extra Hours 5 pm
+Person 33 Sunday, 03/03/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:45 pm, On Queue 12 am, Meal 1:45 am, On Queue 2:15 am, Break 3:45 am, On Queue 4 am, Break 6:15 am, On Queue 6:30 am
+Person 33 Monday, 03/04/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 4:30 am, On Queue 4:45 am, Break 5:45 am, On Queue 6 am
+Person 33 Tuesday, 03/05/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:15 pm, On Queue 11:30 pm, Meal 2 am, On Queue 2:30 am, Break 4:15 am, On Queue 4:30 am, Break 5:30 am, On Queue 5:45 am
+Person 33 Wednesday, 03/06/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:45 pm, On Queue 12 am, Meal 1:15 am, On Queue 1:45 am, Break 4:30 am, On Queue 4:45 am, Break 6:15 am, On Queue 6:30 am
+Person 33 Sunday, 03/10/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:30 pm, On Queue 11:45 pm, Meal 1:45 am, On Queue 2:15 am, Break 3:45 am, On Queue 4 am, Break 6:15 am, On Queue 6:30 am
+Person 33 Monday, 03/11/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 12 am, On Queue 12:15 am, Meal 1:30 am, On Queue 2 am, Break 4:30 am, On Queue 4:45 am, Break 5:45 am, On Queue 6 am
+Person 33 Tuesday, 03/12/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 4:30 am, On Queue 4:45 am, Break 6:30 am, On Queue 6:45 am
+Person 33 Wednesday, 03/13/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11 pm, On Queue 11:15 pm, Meal 1:45 am, On Queue 2:15 am, Break 3:45 am, On Queue 4 am, Break 6:30 am, On Queue 6:45 am
+Person 33 Sunday, 03/17/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:45 pm, On Queue 12 am, Meal 1:45 am, On Queue 2:15 am, Break 3:45 am, On Queue 4 am, Break 6:15 am, On Queue 6:30 am
+Person 33 Monday, 03/18/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:30 pm, On Queue 11:45 pm, Meal 1:30 am, On Queue 2 am, Break 4:30 am, On Queue 4:45 am, Break 5:45 am, On Queue 6 am
+Person 33 Tuesday, 03/19/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 12 am, On Queue 12:15 am, Meal 2 am, On Queue 2:30 am, Break 4:30 am, On Queue 4:45 am, Break 6:30 am, On Queue 6:45 am
+Person 33 Wednesday, 03/20/2024, 9:30 pm to 8 am: On Queue 9:30 pm, Break 11:45 pm, On Queue 12 am, Meal 1:45 am, On Queue 2:15 am, Break 3:45 am, On Queue 4 am, Meeting 6 am, Break 6:30 am, On Queue 6:45 am,
+Person 33 Sunday, 03/24/2024, 9:30 pm to 8 am: Absent 9:30 pm
+
+Person 34 Monday, 02/26/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 34 Tuesday, 02/27/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:45 pm, On Queue 9 pm
+Person 34 Wednesday, 02/28/2024, full day off - Absent
+Person 34 Thursday, 02/29/2024, full day off - Time Off
+Person 34 Friday, 03/01/2024, full day off - Time Off
+Person 34 Monday, 03/04/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:15 pm, On Queue 6:45 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 34 Tuesday, 03/05/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 34 Wednesday, 03/06/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:45 pm, On Queue 9 pm
+Person 34 Thursday, 03/07/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:15 pm, On Queue 6:45 pm, Break 8:45 pm, On Queue 9 pm
+Person 34 Friday, 03/08/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 34 Monday, 03/11/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 34 Tuesday, 03/12/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 34 Wednesday, 03/13/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 34 Thursday, 03/14/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 34 Friday, 03/15/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:15 pm, On Queue 6:45 pm, Break 9 pm, On Queue 9:15 pm
+Person 34 Monday, 03/18/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Absent 2:40 pm,
+Person 34 Tuesday, 03/19/2024, 2:30 pm to 11 pm: Absent 2:30 pm
+Person 34 Wednesday, 03/20/2024, 2:30 pm to 11 pm: Absent 2:30 pm
+Person 34 Thursday, 03/21/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 34 Friday, 03/22/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Meeting 3 pm, On Queue 3:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+
+Person 35 Monday, 02/26/2024, full day off - Absent
+Person 35 Tuesday, 02/27/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 35 Wednesday, 02/28/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:45 pm, On Queue 1 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 35 Thursday, 02/29/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:45 pm, On Queue 1 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 35 Friday, 03/01/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:45 pm, On Queue 1 pm, Meal 3:30 pm, On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 35 Monday, 03/04/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 35 Tuesday, 03/05/2024, 11 am to 7:30 pm: Absent 11 am, On Queue 12 pm, Meal 3 pm, On Queue 3:30 pm, Break 5:15 pm, On Queue 5:30 pm,
+Person 35 Wednesday, 03/06/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 2:45 pm, On Queue 3:15 pm, Break 6 pm, On Queue 6:15 pm
+Person 35 Thursday, 03/07/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 35 Friday, 03/08/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:45 pm, On Queue 1 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 6 pm, On Queue 6:15 pm
+Person 35 Monday, 03/11/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3:30 pm, On Queue 4 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 35 Tuesday, 03/12/2024, 11 am to 7:30 pm: Absent 11 am, On Queue 11:30 am, Meal 3:15 pm, On Queue 3:45 pm, Break 5:15 pm, On Queue 5:30 pm,
+Person 35 Wednesday, 03/13/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3 pm, On Queue 3:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 35 Thursday, 03/14/2024, 11 am to 7:30 pm: Absent 11 am, On Queue 12 pm, Break 12:45 pm, On Queue 1 pm, Meal 3:30 pm, On Queue 4 pm, Break 5 pm, On Queue 5:15 pm
+Person 35 Friday, 03/15/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:45 pm, On Queue 1 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5 pm, On Queue 5:15 pm
+Person 35 Monday, 03/18/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 2:45 pm, On Queue 3:15 pm, Break 6 pm, On Queue 6:15 pm
+Person 35 Tuesday, 03/19/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5:15 pm, On Queue 5:30 pm
+Person 35 Wednesday, 03/20/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3:15 pm, On Queue 3:45 pm, Meeting 4 pm, On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm
+Person 35 Thursday, 03/21/2024, 11 am to 7:30 pm: Absent 11 am, On Queue 12 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5:45 pm, On Queue 6 pm,
+Person 35 Friday, 03/22/2024, 11 am to 7:30 pm: On Queue 11 am, Break 12:30 pm, On Queue 12:45 pm, Meal 3:15 pm, On Queue 3:45 pm, Break 5:45 pm, On Queue 6 pm
+
+Person 36 Monday, 02/26/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 8:15 pm, On Queue 8:45 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Tuesday, 02/27/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 8:45 pm, On Queue 9:15 pm, Break 11:15 pm, On Queue 11:30 pm
+Person 36 Wednesday, 02/28/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 9 pm, On Queue 9:30 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Thursday, 02/29/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 8:30 pm, On Queue 9 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Friday, 03/01/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 8:15 pm, On Queue 8:45 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Monday, 03/04/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 8:30 pm, On Queue 9 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Tuesday, 03/05/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 9 pm, On Queue 9:30 pm, Break 11 pm, On Queue 11:15 pm
+Person 36 Wednesday, 03/06/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 9 pm, On Queue 9:30 pm, Break 11:15 pm, On Queue 11:30 pm
+Person 36 Thursday, 03/07/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 9 pm, On Queue 9:30 pm, Break 10:30 pm, On Queue 10:45 pm
+Person 36 Friday, 03/08/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 9 pm, On Queue 9:30 pm, Break 10:30 pm, On Queue 10:45 pm
+Person 36 Monday, 03/11/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 9 pm, On Queue 9:30 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Tuesday, 03/12/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 9 pm, On Queue 9:30 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Wednesday, 03/13/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 9 pm, On Queue 9:30 pm, Break 11:15 pm, On Queue 11:30 pm
+Person 36 Thursday, 03/14/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 8:45 pm, On Queue 9:15 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Friday, 03/15/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 8:30 pm, On Queue 9 pm, Break 10:45 pm, On Queue 11 pm
+Person 36 Monday, 03/18/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 8:30 pm, On Queue 9 pm, Break 10:45 pm, On Queue 11 pm
+Person 36 Tuesday, 03/19/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 9 pm, On Queue 9:30 pm, Meeting 10 pm, On Queue 10:30 pm, Break 11:30 pm, On Queue 11:45 pm
+Person 36 Wednesday, 03/20/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 8:45 pm, On Queue 9:15 pm, Break 11:15 pm, On Queue 11:30 pm
+Person 36 Thursday, 03/21/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Break 6 pm, On Queue 6:15 pm, Meal 9 pm, On Queue 9:30 pm, Break 10:45 pm, On Queue 11 pm
+Person 36 Friday, 03/22/2024, 4:30 pm to 1 am: On Queue 4:30 pm, Program Training 5:15 pm, On Queue 6:05 pm, Break 6:15 pm, On Queue 6:30 pm, Meal 8:45 pm, On Queue 9:15 pm, Break 10:45 pm, On Queue 11 pm
+
+Person 37 Monday, 02/26/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Tuesday, 02/27/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Wednesday, 02/28/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 37 Thursday, 02/29/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Friday, 03/01/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Monday, 03/04/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Tuesday, 03/05/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Wednesday, 03/06/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 37 Thursday, 03/07/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 4:45 pm, On Queue 5 pm
+Person 37 Friday, 03/08/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:45 pm, On Queue 2:15 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Monday, 03/11/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Tuesday, 03/12/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 37 Wednesday, 03/13/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:15 pm, On Queue 2:45 pm, Break 4:45 pm, On Queue 5 pm
+Person 37 Thursday, 03/14/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:15 pm, On Queue 2:45 pm, Break 4:45 pm, On Queue 5 pm
+Person 37 Friday, 03/15/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 37 Monday, 03/18/2024, 10 am to 6:30 pm: Absent 10 am
+Person 37 Tuesday, 03/19/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 37 Wednesday, 03/20/2024, 10 am to 6:30 pm: Meeting 10 am, On Queue 10:30 am, Break 11:45 am, On Queue 12 pm, Meal 1:45 pm, On Queue 2:15 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 37 Thursday, 03/21/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 5 pm, On Queue 5:15 pm
+Person 37 Friday, 03/22/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+
+Person 38 Monday, 02/26/2024, 9 am to 5:30 pm: On Queue 9 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 38 Tuesday, 02/27/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:45 pm, On Queue 4 pm
+Person 38 Wednesday, 02/28/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 38 Thursday, 02/29/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 38 Friday, 03/01/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Monday, 03/04/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Tuesday, 03/05/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Wednesday, 03/06/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:45 pm, On Queue 4 pm
+Person 38 Thursday, 03/07/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 38 Friday, 03/08/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Monday, 03/11/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 38 Tuesday, 03/12/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:30 pm, On Queue 2 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Wednesday, 03/13/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Thursday, 03/14/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Friday, 03/15/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Monday, 03/18/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:45 pm, On Queue 4 pm
+Person 38 Tuesday, 03/19/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 38 Wednesday, 03/20/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 38 Thursday, 03/21/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 38 Friday, 03/22/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+
+Person 39 Monday, 02/26/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:45 pm, On Queue 9 pm
+Person 39 Tuesday, 02/27/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 39 Wednesday, 02/28/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:45 pm, On Queue 9 pm
+Person 39 Thursday, 02/29/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 39 Friday, 03/01/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 39 Monday, 03/04/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:15 pm, On Queue 6:45 pm, Break 9 pm, On Queue 9:15 pm
+Person 39 Tuesday, 03/05/2024, 2:30 pm to 11 pm: Absent 2:30 pm, On Queue 6 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:30 pm, On Queue 8:45 pm,
+Person 39 Wednesday, 03/06/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6:15 pm, On Queue 6:45 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 39 Thursday, 03/07/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 39 Friday, 03/08/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 39 Monday, 03/11/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:45 pm, On Queue 7:15 pm, Break 8:45 pm, On Queue 9 pm
+Person 39 Tuesday, 03/12/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 6:15 pm, On Queue 6:45 pm, Break 9 pm, On Queue 9:15 pm
+Person 39 Wednesday, 03/13/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6:30 pm, On Queue 7 pm, Break 9 pm, On Queue 9:15 pm
+Person 39 Thursday, 03/14/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6 pm, On Queue 6:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 39 Friday, 03/15/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 39 Monday, 03/18/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 39 Tuesday, 03/19/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 39 Wednesday, 03/20/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm, Meal 7 pm, On Queue 7:30 pm, Break 9 pm, On Queue 9:15 pm
+Person 39 Thursday, 03/21/2024, full day off - Time Off
+Person 39 Friday, 03/22/2024, 2:30 pm to 11 pm: On Queue 2:30 pm, Meeting 3 pm, On Queue 3:30 pm, Break 4:15 pm, Program Training 4:30 pm, On Queue 6 pm, Meal 6:30 pm, On Queue 7 pm, Break 8:45 pm, On Queue 9 pm,
+
+Person 40 Monday, 02/26/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Tuesday, 02/27/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:45 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Wednesday, 02/28/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Thursday, 02/29/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Friday, 03/01/2024, 1 pm to 6 pm: On Queue 1 pm, Break 3 pm, On Queue 3:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Monday, 03/04/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:30 pm, On Queue 2:45 pm, Absent 3:24 pm, On Queue 3:46 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Tuesday, 03/05/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Wednesday, 03/06/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Thursday, 03/07/2024, 1 pm to 6 pm: On Queue 1 pm, Break 3 pm, On Queue 3:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Friday, 03/08/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:45 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Monday, 03/11/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:45 pm, On Queue 3 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 40 Tuesday, 03/12/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:45 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Wednesday, 03/13/2024, 1 pm to 6 pm: On Queue 1 pm, Break 3 pm, On Queue 3:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Thursday, 03/14/2024, 1 pm to 6 pm: On Queue 1 pm, Break 3 pm, On Queue 3:15 pm, Break 4:45 pm, On Queue 5 pm
+Person 40 Friday, 03/15/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:30 pm, On Queue 2:45 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Monday, 03/18/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:45 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Tuesday, 03/19/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:30 pm, On Queue 2:45 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 40 Wednesday, 03/20/2024, 1 pm to 6 pm: On Queue 1 pm, Break 2:45 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Thursday, 03/21/2024, 1 pm to 6 pm: On Queue 1 pm, Break 3 pm, On Queue 3:15 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 40 Friday, 03/22/2024, 1 pm to 6 pm: On Queue 1 pm, Meeting 3 pm, On Queue 3:30 pm, Break 4:30 pm, On Queue 4:45 pm
+
+Person 41 Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2 pm, On Queue 2:15 pm
+Person 41 Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 41 Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 41 Friday, 03/01/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 41 Saturday, 03/02/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 41 Tuesday, 03/05/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 41 Wednesday, 03/06/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2 pm, On Queue 2:15 pm
+Person 41 Thursday, 03/07/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 41 Friday, 03/08/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 41 Saturday, 03/09/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 41 Tuesday, 03/12/2024, full day off - Absent
+Person 41 Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:30 am, On Queue 12 pm, Break 2:45 pm, On Queue 3 pm
+Person 41 Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 41 Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 41 Saturday, 03/16/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 41 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 41 Wednesday, 03/20/2024, 8 am to 4:30 pm: Meeting 8 am, On Queue 8:30 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 41 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:45 pm, Program Training 3 pm
+Person 41 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 41 Saturday, 03/23/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 41 Sunday, 03/24/2024, 6 pm to 10 pm: Extra Hours 6 pm, Break 7:45 pm, Extra Hours 8 pm
+
+Person 42 (inactive) Monday, 02/26/2024, full day off - Absent
+Person 42 (inactive) Tuesday, 02/27/2024, full day off - Absent
+Person 42 (inactive) Wednesday, 02/28/2024, full day off - Inactive
+Person 42 (inactive) Thursday, 02/29/2024, 12 pm to 4 pm: On Queue 12 pm, Break 1:30 pm, On Queue 1:45 pm
+Person 42 (inactive) Friday, 03/01/2024, 12 pm to 9 pm: On Queue 12 pm, Break 1:15 pm, On Queue 1:30 pm, Split 4 pm, On Queue 5 pm, Break 7:45 pm, On Queue 8 pm
+Person 42 (inactive) Monday, 03/04/2024, 12 pm to 1:15 pm: Absent 12 pm
+Person 42 (inactive) Tuesday, 03/05/2024, 12 pm to 4 pm: On Queue 12 pm, Inactive 12:24 pm,
+Person 42 (inactive) Wednesday, 03/06/2024, full day off - Inactive
+Person 42 (inactive) Thursday, 03/07/2024, full day off - Inactive
+Person 42 (inactive) Friday, 03/08/2024, full day off - Inactive
+Person 42 (inactive) Monday, 03/11/2024, full day off - Inactive
+Person 42 (inactive) Tuesday, 03/12/2024, full day off - Inactive
+Person 42 (inactive) Wednesday, 03/13/2024, full day off - Inactive
+Person 42 (inactive) Thursday, 03/14/2024, full day off - Inactive
+Person 42 (inactive) Friday, 03/15/2024, full day off - Inactive
+Person 42 (inactive) Monday, 03/18/2024, full day off - Inactive
+Person 42 (inactive) Tuesday, 03/19/2024, full day off - Inactive
+Person 42 (inactive) Wednesday, 03/20/2024, full day off - Inactive
+Person 42 (inactive) Thursday, 03/21/2024, full day off - Inactive
+Person 42 (inactive) Friday, 03/22/2024, full day off - Inactive
+
+Person 43 Monday, 02/26/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 43 Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 43 Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 43 Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2 pm, On Queue 2:15 pm
+Person 43 Friday, 03/01/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 43 Monday, 03/04/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:30 am, On Queue 12 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 43 Tuesday, 03/05/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm
+Person 43 Wednesday, 03/06/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 43 Thursday, 03/07/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2 pm, On Queue 2:15 pm
+Person 43 Friday, 03/08/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 43 Monday, 03/11/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm
+Person 43 Tuesday, 03/12/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3 pm, On Queue 3:15 pm
+Person 43 Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 43 Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3 pm, On Queue 3:15 pm
+Person 43 Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 43 Monday, 03/18/2024, 8 am to 4:30 pm: Absent 8 am, On Queue 8:17 am, Break 9:30 am, On Queue 9:45 am, Meal 11:30 am, On Queue 12 pm, Break 2 pm, On Queue 2:15 pm
+Person 43 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:15 am, Meeting 9:30 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2 pm, On Queue 2:15 pm
+Person 43 Wednesday, 03/20/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 43 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2 pm, On Queue 2:15 pm
+Person 43 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+
+Person 44 Monday, 02/26/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:15 am, On Queue 9:30 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 44 Tuesday, 02/27/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 12:45 pm, On Queue 1:15 pm, Break 4 pm, On Queue 4:15 pm
+Person 44 Wednesday, 02/28/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:15 am, On Queue 9:30 am, Meal 1 pm, On Queue 1:30 pm, Break 3:45 pm, On Queue 4 pm
+Person 44 Thursday, 02/29/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:15 am, On Queue 9:30 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 44 Friday, 03/01/2024, 8 am to 12 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am
+Person 44 Monday, 03/04/2024, 8 am to 5:30 pm: On Queue 8 am, Break 10:30 am, On Queue 10:45 am, Meal 12:30 pm, On Queue 1 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 44 Tuesday, 03/05/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:15 am, On Queue 9:30 am, Absent 11:21 am
+Person 44 Wednesday, 03/06/2024, full day off - Absent
+Person 44 Thursday, 03/07/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:15 am, On Queue 9:30 am, Meal 1 pm, On Queue 1:30 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 44 Friday, 03/08/2024, 8 am to 12 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am
+Person 44 Monday, 03/11/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3:45 pm, On Queue 4 pm
+Person 44 Tuesday, 03/12/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 44 Wednesday, 03/13/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:45 pm, On Queue 4 pm
+Person 44 Thursday, 03/14/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:30 pm, On Queue 1 pm, Break 4 pm, On Queue 4:15 pm
+Person 44 Friday, 03/15/2024, 8 am to 12 pm: On Queue 8 am, Break 10:15 am, On Queue 10:30 am
+Person 44 Monday, 03/18/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 44 Tuesday, 03/19/2024, 8 am to 5:30 pm: On Queue 8 am, Break 9:15 am, On Queue 9:30 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3:45 pm, On Queue 4 pm
+Person 44 Wednesday, 03/20/2024, 8 am to 5:30 pm: Meeting 8 am, On Queue 8:30 am, Break 9:15 am, On Queue 9:30 am, Meal 12 pm, On Queue 12:30 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 44 Thursday, 03/21/2024, 8 am to 5:30 pm: Absent 8 am
+Person 44 Friday, 03/22/2024, 8 am to 12 pm: Absent 8 am
+
+Person 45 Monday, 02/26/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Friday, 03/01/2024, 8 am to 4:30 pm: Time Off 8 am, On Queue 8:33 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm,
+Person 45 Monday, 03/04/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Tuesday, 03/05/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Wednesday, 03/06/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Thursday, 03/07/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Friday, 03/08/2024, 8 am to 10 pm: Time Off 8 am, On Queue 9:36 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm, Split 4:30 pm, Extra Hours 8 pm,
+Person 45 Saturday, 03/09/2024, 10 am to 2:30 pm: Extra Hours 10 am, Break 12:15 pm, Extra Hours 12:30 pm
+Person 45 Monday, 03/11/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Tuesday, 03/12/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Monday, 03/18/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Wednesday, 03/20/2024, 8 am to 4:30 pm: Meeting 8 am, On Queue 8:30 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm,
+Person 45 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+Person 45 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9 am, On Queue 9:15 am, Meal 1 pm, On Queue 1:30 pm, Accommodation 3:30 pm, On Queue 3:35 pm, Break 4 pm, On Queue 4:15 pm
+
+Person 46 Monday, 02/26/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:30 pm, On Queue 1 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 46 Tuesday, 02/27/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 46 Wednesday, 02/28/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 46 Thursday, 02/29/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 46 Friday, 03/01/2024, 8:30 am to 5 pm: Absent 8:30 am, On Queue 9:44 am, Break 10:15 am, On Queue 10:30 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3 pm, On Queue 3:15 pm
+Person 46 Monday, 03/04/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 46 Tuesday, 03/05/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 46 Wednesday, 03/06/2024, 8 am to 5 pm: Absent 8 am, On Queue 8:57 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 46 Thursday, 03/07/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 46 Friday, 03/08/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12:30 pm, On Queue 1 pm, Break 3 pm, On Queue 3:15 pm
+Person 46 Monday, 03/11/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 46 Tuesday, 03/12/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:45 pm, On Queue 1:15 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 46 Wednesday, 03/13/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3 pm, On Queue 3:15 pm
+Person 46 Thursday, 03/14/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:30 pm, On Queue 1 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 46 Friday, 03/15/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:45 pm, On Queue 1:15 pm, Absent 1:29 pm,
+Person 46 Monday, 03/18/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10:15 am, On Queue 10:30 am, Meal 12 pm, On Queue 12:30 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 46 Tuesday, 03/19/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:45 pm, On Queue 1:15 pm, Meeting 2 pm, On Queue 2:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 46 Wednesday, 03/20/2024, 8:30 am to 5 pm: Absent 8:30 am, On Queue 9 am, Break 10 am, On Queue 10:15 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 46 Thursday, 03/21/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12:30 pm, On Queue 1 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 46 Friday, 03/22/2024, 8:30 am to 5 pm: On Queue 8:30 am, Break 10 am, On Queue 10:15 am, Meal 12 pm, On Queue 12:30 pm, Break 3:15 pm, Program Training 3:30 pm
+
+Person 47 Monday, 02/26/2024, full day off - Absent
+Person 47 Tuesday, 02/27/2024, full day off - Absent
+Person 47 Wednesday, 02/28/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 4:45 pm, On Queue 5 pm
+Person 47 Thursday, 02/29/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 47 Friday, 03/01/2024, full day off - Absent
+Person 47 Monday, 03/04/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 47 Tuesday, 03/05/2024, 10 am to 6:30 pm: On Queue 10 am, Absent 10:56 am, On Queue 12:21 pm, Meal 2:31 pm, On Queue 3:01 pm, Break 4:53 pm, On Queue 5:08 pm, Absent 6:08 pm
+Person 47 Wednesday, 03/06/2024, full day off - Absent
+Person 47 Thursday, 03/07/2024, full day off - Absent
+Person 47 Friday, 03/08/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Absent 2:51 pm,
+Person 47 Monday, 03/11/2024, 10 am to 6:30 pm: Absent 10 am
+Person 47 Tuesday, 03/12/2024, full day off - Absent
+Person 47 Wednesday, 03/13/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 47 Thursday, 03/14/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 47 Friday, 03/15/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 47 Monday, 03/18/2024, 10 am to 6:30 pm: Absent 10 am, On Queue 12:14 pm, Meal 2:15 pm, On Queue 2:45 pm, Break 4 pm, On Queue 4:15 pm,
+Person 47 Tuesday, 03/19/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 4 pm, On Queue 4:15 pm
+Person 47 Wednesday, 03/20/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Meeting 4 pm, On Queue 4:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 47 Thursday, 03/21/2024, 10 am to 6:30 pm: On Queue 10 am, Meal 1:30 pm, On Queue 2 pm, Break 4:45 pm, On Queue 5 pm
+Person 47 Friday, 03/22/2024, 10 am to 6:30 pm: Absent 10 am, On Queue 10:39 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Absent 3:23 pm, On Queue 5:50 pm
+
+Person 48 Monday, 02/26/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1 pm, On Queue 1:30 pm, Absent 2:01 pm,
+Person 48 Tuesday, 02/27/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 48 Wednesday, 02/28/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:45 pm, On Queue 2:15 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 48 Thursday, 02/29/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 48 Friday, 03/01/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:30 pm, On Queue 2 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 48 Saturday, 03/02/2024, 9:30 am to 2 pm: Extra Hours 9:30 am, Break 11:15 am, Extra Hours 11:30 am
+Person 48 Monday, 03/04/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 48 Tuesday, 03/05/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 48 Wednesday, 03/06/2024, 9:30 am to 6 pm: Absent 9:30 am, On Queue 1:36 pm,
+Person 48 Thursday, 03/07/2024, 9:30 am to 6 pm: Absent 9:30 am, On Queue 9:55 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 48 Friday, 03/08/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:15 pm, On Queue 1:45 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 48 Monday, 03/11/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:30 pm, On Queue 2 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 48 Tuesday, 03/12/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 2 pm, On Queue 2:30 pm, Break 3:45 pm, On Queue 4 pm
+Person 48 Wednesday, 03/13/2024, 9:30 am to 6 pm: On Queue 9:30 am, Meal 1:15 pm, On Queue 1:45 pm, Break 4 pm, On Queue 4:15 pm
+Person 48 Thursday, 03/14/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 48 Friday, 03/15/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 48 Monday, 03/18/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:15 pm, On Queue 1:45 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 48 Tuesday, 03/19/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:15 am, On Queue 11:30 am, Meal 1:30 pm, On Queue 2 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 48 Wednesday, 03/20/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11:45 am, On Queue 12 pm, Meal 1:30 pm, On Queue 2 pm, Break 3:45 pm, On Queue 4 pm
+Person 48 Thursday, 03/21/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1 pm, On Queue 1:30 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 48 Friday, 03/22/2024, 9:30 am to 6 pm: On Queue 9:30 am, Break 11 am, On Queue 11:15 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:15 pm, On Queue 4:30 pm
+
+Person 49 Monday, 02/26/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8 pm, On Queue 8:15 pm
+Person 49 Tuesday, 02/27/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8 pm, On Queue 8:15 pm
+Person 49 Wednesday, 02/28/2024, 6 pm to 11 pm: On Queue 6 pm, Break 9 pm, On Queue 9:15 pm
+Person 49 Thursday, 02/29/2024, full day off - Time Off
+Person 49 Friday, 03/01/2024, full day off - Time Off
+Person 49 Monday, 03/04/2024, full day off - Absent
+Person 49 Tuesday, 03/05/2024, 6 pm to 11 pm: On Queue 6 pm, Break 9 pm, On Queue 9:15 pm
+Person 49 Wednesday, 03/06/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:15 pm, On Queue 8:30 pm
+Person 49 Thursday, 03/07/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:15 pm, On Queue 8:30 pm
+Person 49 Friday, 03/08/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:15 pm, On Queue 8:30 pm
+Person 49 Monday, 03/11/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 49 Tuesday, 03/12/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:15 pm, On Queue 8:30 pm
+Person 49 Wednesday, 03/13/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:45 pm, On Queue 9 pm
+Person 49 Thursday, 03/14/2024, 6 pm to 11 pm: Absent 6 pm
+Person 49 Friday, 03/15/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:15 pm, On Queue 8:30 pm
+Person 49 Monday, 03/18/2024, 6 pm to 11 pm: Absent 6 pm, On Queue 6:30 pm, Break 9 pm, On Queue 9:15 pm
+Person 49 Tuesday, 03/19/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:45 pm, On Queue 9 pm, Meeting 10 pm, On Queue 10:30 pm
+Person 49 Wednesday, 03/20/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 49 Thursday, 03/21/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8:30 pm, On Queue 8:45 pm
+Person 49 Friday, 03/22/2024, 6 pm to 11 pm: On Queue 6 pm, Break 8 pm, On Queue 8:15 pm
+
+Person 50 Monday, 02/26/2024, 9 am to 11 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Tuesday, 02/27/2024, 9 am to 11 pm: On Queue 9 am, Break 11 am, On Queue 11:15 am, Split 2 pm, On Queue 8 pm
+Person 50 Wednesday, 02/28/2024, 9 am to 11 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Split 2 pm, On Queue 8 pm
+Person 50 Thursday, 02/29/2024, 9 am to 11 pm: On Queue 9 am, Break 11 am, On Queue 11:15 am, Split 2 pm, On Queue 8 pm
+Person 50 Sunday, 03/03/2024, 7:30 am to 4 pm: On Queue 7:30 am, Break 9:15 am, On Queue 9:30 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 50 Monday, 03/04/2024, 9 am to 11 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Split 2 pm, On Queue 8 pm
+Person 50 Tuesday, 03/05/2024, 9 am to 11 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Wednesday, 03/06/2024, 8 am to 11 pm: Time Off 8 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Thursday, 03/07/2024, 9 am to 11 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Sunday, 03/10/2024, 7:30 am to 4 pm: On Queue 7:30 am, Break 9 am, On Queue 9:15 am, Meal 12 pm, On Queue 12:30 pm, Break 1:30 pm, On Queue 1:45 pm
+Person 50 Monday, 03/11/2024, 9 am to 11 pm: On Queue 9 am, Break 11:15 am, On Queue 11:30 am, Split 2 pm, On Queue 8 pm
+Person 50 Tuesday, 03/12/2024, 9 am to 11 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Split 2 pm, On Queue 8 pm
+Person 50 Wednesday, 03/13/2024, 9 am to 11 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Thursday, 03/14/2024, 9 am to 11 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Sunday, 03/17/2024, 7:30 am to 4 pm: On Queue 7:30 am, Break 9 am, On Queue 9:15 am, Meal 11 am, On Queue 11:30 am, Break 1:30 pm, On Queue 1:45 pm
+Person 50 Monday, 03/18/2024, 9 am to 11 pm: On Queue 9 am, Break 11 am, On Queue 11:15 am, Split 2 pm, On Queue 8 pm
+Person 50 Tuesday, 03/19/2024, 9 am to 11 pm: On Queue 9 am, Meeting 9:30 am, On Queue 10 am, Break 10:30 am, On Queue 10:45 am, Split 2 pm, On Queue 8 pm
+Person 50 Wednesday, 03/20/2024, 9 am to 11 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Thursday, 03/21/2024, 9 am to 11 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Split 2 pm, On Queue 8 pm
+Person 50 Sunday, 03/24/2024, 7:30 am to 4 pm: On Queue 7:30 am, Break 9 am, On Queue 9:15 am, Meal 11 am, On Queue 11:30 am, Break 1:30 pm, On Queue 1:45 pm
+
+Person 51 Monday, 02/26/2024, 4 pm to 8 pm: On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 51 Tuesday, 02/27/2024, 4 pm to 8 pm: On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 51 Wednesday, 02/28/2024, 4 pm to 8 pm: On Queue 4 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 51 Thursday, 02/29/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Friday, 03/01/2024, 4 pm to 8 pm: On Queue 4 pm, Break 5:45 pm, On Queue 6 pm
+Person 51 Monday, 03/04/2024, full day off - Absent
+Person 51 Tuesday, 03/05/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Wednesday, 03/06/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Thursday, 03/07/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Friday, 03/08/2024, 4 pm to 8 pm: On Queue 4 pm, Absent 4:26 pm,
+Person 51 Monday, 03/11/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Tuesday, 03/12/2024, 4 pm to 8 pm: On Queue 4 pm, Break 5:30 pm, On Queue 5:45 pm, Absent 7:17 pm
+Person 51 Wednesday, 03/13/2024, 4:02 pm to 8:02 pm: Absent 4:02 pm, On Queue 8 pm,
+Person 51 Thursday, 03/14/2024, 4 pm to 8 pm: Absent 4 pm
+Person 51 Friday, 03/15/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Monday, 03/18/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Tuesday, 03/19/2024, 4 pm to 8 pm: On Queue 4 pm, Break 5:30 pm, On Queue 5:45 pm
+Person 51 Wednesday, 03/20/2024, 4 pm to 8 pm: Meeting 4 pm, On Queue 4:30 pm, Break 5:45 pm, On Queue 6 pm
+Person 51 Thursday, 03/21/2024, 4 pm to 8 pm: On Queue 4 pm, Break 6 pm, On Queue 6:15 pm
+Person 51 Friday, 03/22/2024, 4 pm to 8 pm: On Queue 4 pm, Break 5:30 pm, On Queue 5:45 pm
+
+Person 52 Monday, 02/26/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:30 am, On Queue 12 pm, Break 2 pm, On Queue 2:15 pm
+Person 52 Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 52 Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:30 pm, On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 52 Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm
+Person 52 Friday, 03/01/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:30 am, On Queue 12 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 52 Monday, 03/04/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 52 Tuesday, 03/05/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:30 am, On Queue 12 pm, Break 2 pm, On Queue 2:15 pm
+Person 52 Wednesday, 03/06/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 52 Thursday, 03/07/2024, full day off - Absent
+Person 52 Friday, 03/08/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2 pm, On Queue 2:15 pm
+Person 52 Monday, 03/11/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:30 am, On Queue 12 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 52 Tuesday, 03/12/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:30 am, On Queue 12 pm, Break 2 pm, On Queue 2:15 pm
+Person 52 Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:30 am, On Queue 12 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 52 Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 52 Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:15 pm, On Queue 12:45 pm, Break 3 pm, On Queue 3:15 pm
+Person 52 Monday, 03/18/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 52 Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm
+Person 52 Wednesday, 03/20/2024, 8 am to 4:30 pm: Meeting 8 am, On Queue 8:30 am, Break 9:45 am, On Queue 10 am, Meal 11:30 am, On Queue 12 pm, Break 2 pm, On Queue 2:15 pm
+Person 52 Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 52 Friday, 03/22/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:30 pm, On Queue 1 pm, Break 3 pm, On Queue 3:15 pm
+
+Person 53 Wednesday, 02/28/2024, 3 pm to 11 pm: On Queue 3 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7 pm, On Queue 7:30 pm, Break 9:45 pm, On Queue 10 pm
+Person 53 Thursday, 02/29/2024, 3 pm to 11 pm: On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm, Meal 7:15 pm, On Queue 7:45 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 53 Friday, 03/01/2024, 3 pm to 11 pm: On Queue 3 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7:15 pm, On Queue 7:45 pm, Break 9:45 pm, On Queue 10 pm
+Person 53 Saturday, 03/02/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 53 Wednesday, 03/06/2024, 3 pm to 11 pm: Absent 3 pm, On Queue 6 pm, Meal 7:15 pm, On Queue 7:45 pm, Break 9:45 pm, On Queue 10 pm,
+Person 53 Thursday, 03/07/2024, 3 pm to 11 pm: On Queue 3 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7:15 pm, On Queue 7:45 pm, Break 9 pm, On Queue 9:15 pm
+Person 53 Friday, 03/08/2024, 3 pm to 11 pm: On Queue 3 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 6:30 pm, On Queue 7 pm, Break 9:30 pm, On Queue 9:45 pm
+Person 53 Saturday, 03/09/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 53 Wednesday, 03/13/2024, 3 pm to 11 pm: On Queue 3 pm, Break 4:45 pm, On Queue 5 pm, Meal 6 pm, Program Training 6:30 pm, On Queue 8:30 pm, Break 10 pm, On Queue 10:15 pm
+Person 53 Thursday, 03/14/2024, 3 pm to 11 pm: On Queue 3 pm, Break 4:15 pm, On Queue 4:30 pm, Meal 6 pm, Program Training 6:30 pm, On Queue 8:30 pm, Break 9:45 pm, On Queue 10 pm
+Person 53 Friday, 03/15/2024, 3 pm to 11 pm: On Queue 3 pm, Break 5:15 pm, On Queue 5:30 pm, Meal 7:15 pm, On Queue 7:45 pm, Break 9:15 pm, On Queue 9:30 pm
+Person 53 Saturday, 03/16/2024, 3 pm to 11 pm: Absent 3 pm
+Person 53 Wednesday, 03/20/2024, 3 pm to 11 pm: Absent 3 pm
+Person 53 Thursday, 03/21/2024, 3 pm to 11 pm: NCNS 3 pm
+Person 53 Friday, 03/22/2024, 3 pm to 11 pm: Leave 3 pm
+Person 53 Saturday, 03/23/2024, 3 pm to 11 pm: Leave 3 pm
+
+Person 54 Monday, 02/26/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10 am, On Queue 10:30 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Tuesday, 02/27/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10 am, On Queue 10:30 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Wednesday, 02/28/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Thursday, 02/29/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Friday, 03/01/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8:15 am, On Queue 8:30 am, Meal 10:30 am, On Queue 11 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Monday, 03/04/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10 am, On Queue 10:30 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Tuesday, 03/05/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10 am, On Queue 10:30 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Wednesday, 03/06/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8:15 am, On Queue 8:30 am, Meal 10:15 am, On Queue 10:45 am, Break 1 pm, On Queue 1:15 pm
+Person 54 Thursday, 03/07/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Friday, 03/08/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8:15 am, On Queue 8:30 am, Meal 10:45 am, On Queue 11:15 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Monday, 03/11/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10:30 am, On Queue 11 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Tuesday, 03/12/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10 am, On Queue 10:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 54 Wednesday, 03/13/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10 am, On Queue 10:30 am, Absent 11:34 am, On Queue 12:12 pm
+Person 54 Thursday, 03/14/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8:15 am, On Queue 8:30 am, Meal 10:45 am, On Queue 11:15 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Friday, 03/15/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 1 pm, On Queue 1:15 pm
+Person 54 Monday, 03/18/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 12:30 pm, On Queue 12:45 pm
+Person 54 Tuesday, 03/19/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8 am, On Queue 8:15 am, Meal 10:15 am, On Queue 10:45 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Wednesday, 03/20/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8:15 am, On Queue 8:30 am, Meeting 10 am, Meal 10:30 am, On Queue 11 am, Break 12:45 pm, On Queue 1 pm
+Person 54 Thursday, 03/21/2024, full day off - Time Off
+Person 54 Friday, 03/22/2024, 6:30 am to 3 pm: On Queue 6:30 am, Break 8:15 am, On Queue 8:30 am, Meal 10:30 am, On Queue 11 am, Break 12:45 pm, On Queue 1 pm
+
+Person 55 Monday, 02/26/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 1:30 pm, On Queue 2 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 55 Tuesday, 02/27/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:30 pm, On Queue 3:45 pm
+Person 55 Wednesday, 02/28/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:30 pm, On Queue 2 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 55 Friday, 03/01/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 1:30 pm, On Queue 2 pm, Absent 2:19 pm, On Queue 4:28 pm
+Person 55 Saturday, 03/02/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 55 Monday, 03/04/2024, 9 am to 5:30 pm: Time Off 9 am, On Queue 12 pm, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm,
+Person 55 Tuesday, 03/05/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:45 pm, On Queue 4 pm
+Person 55 Wednesday, 03/06/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 55 Friday, 03/08/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:45 pm, On Queue 4 pm
+Person 55 Saturday, 03/09/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 55 Monday, 03/11/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 1 pm, On Queue 1:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 55 Tuesday, 03/12/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 12:45 pm, On Queue 1:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 55 Wednesday, 03/13/2024, 9 am to 5:30 pm: On Queue 9 am, Program Training 9:30 am, Break 11:30 am, On Queue 11:45 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3:15 pm, On Queue 3:30 pm
+Person 55 Friday, 03/15/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:30 am, On Queue 10:45 am, Meal 1 pm, Program Training 1:30 pm, On Queue 3:30 pm, Break 3:45 pm, On Queue 4 pm
+Person 55 Saturday, 03/16/2024, 9 am to 5:30 pm: Program Training 9 am, Program Training 10:30 am, Break 11 am, Program Training 11:15 am, Meal 1:15 pm, Program Training 1:45 pm, Break 3:30 pm, Program Training 3:45 pm
+Person 55 Monday, 03/18/2024, 9 am to 5:30 pm: On Queue 9 am, Break 10:45 am, On Queue 11 am, Meal 1:15 pm, On Queue 1:45 pm, Break 3 pm, On Queue 3:15 pm
+Person 55 Tuesday, 03/19/2024, 9 am to 5:30 pm: On Queue 9 am, Meeting 9:30 am, On Queue 10 am, Break 10:45 am, Program Training 11 am, Absent 11:41 am,
+Person 55 Wednesday, 03/20/2024, 9 am to 5:30 pm: Time Off 9 am
+Person 55 Friday, 03/22/2024, 9 am to 5:30 pm: Time Off 9 am
+Person 55 Saturday, 03/23/2024, 9 am to 5:30 pm: Time Off 9 am
+
+Person 56 Monday, 02/26/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 56 Tuesday, 02/27/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:45 pm, Time Off 5 pm, On Queue 5:30 pm
+Person 56 Wednesday, 02/28/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 1:45 pm, On Queue 2:15 pm, Break 5 pm, On Queue 5:15 pm
+Person 56 Thursday, 02/29/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:30 pm, On Queue 2 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 56 Friday, 03/01/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 56 Monday, 03/04/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Absent 2:49 pm,
+Person 56 Tuesday, 03/05/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 56 Wednesday, 03/06/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 56 Thursday, 03/07/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 56 Friday, 03/08/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+Person 56 Monday, 03/11/2024, 10 am to 6:30 pm: Time Off 10 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm,
+Person 56 Tuesday, 03/12/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 56 Wednesday, 03/13/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:45 pm, On Queue 2:15 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 56 Thursday, 03/14/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 1:45 pm, On Queue 2:15 pm, Break 5 pm, On Queue 5:15 pm
+Person 56 Friday, 03/15/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 56 Monday, 03/18/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 56 Tuesday, 03/19/2024, full day off - Time Off
+Person 56 Wednesday, 03/20/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:15 pm, On Queue 2:45 pm, Meeting 4 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 56 Thursday, 03/21/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2:30 pm, On Queue 3 pm, Break 4:45 pm, On Queue 5 pm
+Person 56 Friday, 03/22/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2:30 pm, On Queue 3 pm, Break 5 pm, On Queue 5:15 pm
+
+Person 57 (inactive) Monday, 02/26/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 57 (inactive) Tuesday, 02/27/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:45 pm, On Queue 3 pm
+Person 57 (inactive) Wednesday, 02/28/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:30 am, On Queue 12 pm, Break 2 pm, On Queue 2:15 pm
+Person 57 (inactive) Thursday, 02/29/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2 pm, On Queue 2:15 pm
+Person 57 (inactive) Friday, 03/01/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12:30 pm, On Queue 1 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 57 (inactive) Monday, 03/04/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 2:15 pm, On Queue 2:30 pm
+Person 57 (inactive) Tuesday, 03/05/2024, full day off - Absent
+Person 57 (inactive) Wednesday, 03/06/2024, full day off - Absent
+Person 57 (inactive) Thursday, 03/07/2024, full day off - Absent
+Person 57 (inactive) Friday, 03/08/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 57 (inactive) Monday, 03/11/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:30 pm, On Queue 2:45 pm
+Person 57 (inactive) Tuesday, 03/12/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 57 (inactive) Wednesday, 03/13/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:45 am, On Queue 10 am, Meal 12 pm, On Queue 12:30 pm, Break 2:45 pm, On Queue 3 pm
+Person 57 (inactive) Thursday, 03/14/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 3 pm, On Queue 3:15 pm
+Person 57 (inactive) Friday, 03/15/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:45 pm, On Queue 3 pm
+Person 57 (inactive) Monday, 03/18/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:30 pm, On Queue 1 pm, Break 2:45 pm, On Queue 3 pm
+Person 57 (inactive) Tuesday, 03/19/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 12:15 pm, On Queue 12:45 pm, Break 2:45 pm, On Queue 3 pm
+Person 57 (inactive) Wednesday, 03/20/2024, 8 am to 4:30 pm: Meeting 8 am, On Queue 8:30 am, Break 9:30 am, On Queue 9:45 am, Meal 12 pm, On Queue 12:30 pm, Break 3 pm, On Queue 3:15 pm
+Person 57 (inactive) Thursday, 03/21/2024, 8 am to 4:30 pm: On Queue 8 am, Break 9:30 am, On Queue 9:45 am, Meal 11:45 am, On Queue 12:15 pm, Break 2:45 pm, On Queue 3 pm
+Person 57 (inactive) Friday, 03/22/2024, 8 am to 4:30 pm: Time Off 8 am
+
+Person 58 Monday, 02/26/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm
+Person 58 Tuesday, 02/27/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Wednesday, 02/28/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Thursday, 02/29/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Friday, 03/01/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:45 pm, On Queue 2 pm
+Person 58 Monday, 03/04/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Time Off 12 pm,
+Person 58 Tuesday, 03/05/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Wednesday, 03/06/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Thursday, 03/07/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Friday, 03/08/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm
+Person 58 Monday, 03/11/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:45 pm, On Queue 2 pm
+Person 58 Tuesday, 03/12/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 2 pm, On Queue 2:15 pm
+Person 58 Wednesday, 03/13/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Thursday, 03/14/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:45 pm, On Queue 2 pm
+Person 58 Friday, 03/15/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:45 pm, On Queue 2 pm
+Person 58 Monday, 03/18/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1 pm, On Queue 1:15 pm
+Person 58 Tuesday, 03/19/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Wednesday, 03/20/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meeting 10 am, On Queue 10:30 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Thursday, 03/21/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+Person 58 Friday, 03/22/2024, 7 am to 3:30 pm: On Queue 7 am, Break 8:30 am, On Queue 8:45 am, Meal 11 am, On Queue 11:30 am, Break 1:15 pm, On Queue 1:30 pm
+
+Person 59 Monday, 02/26/2024, full day off - Time Off
+Person 59 Tuesday, 02/27/2024, full day off - Time Off
+Person 59 Thursday, 02/29/2024, full day off - Time Off
+Person 59 Friday, 03/01/2024, full day off - Time Off
+Person 59 Saturday, 03/02/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 59 Monday, 03/04/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 59 Tuesday, 03/05/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 4 pm, On Queue 4:15 pm
+Person 59 Thursday, 03/07/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 59 Friday, 03/08/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 59 Saturday, 03/09/2024, 9 am to 5:30 pm: Program Training 9 am, Break 11:15 am, Program Training 11:30 am, Meal 1 pm, Program Training 1:30 pm, Break 3 pm, Program Training 3:15 pm
+Person 59 Monday, 03/11/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 59 Tuesday, 03/12/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm, Time Off 6 pm
+Person 59 Thursday, 03/14/2024, 10 am to 6:30 pm: Program Training 10 am, Break 12 pm, On Queue 12:15 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 59 Friday, 03/15/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:15 am, On Queue 11:30 am, Meal 1 pm, Program Training 1:30 pm, On Queue 3:30 pm, Break 4:45 pm, On Queue 5 pm
+Person 59 Saturday, 03/16/2024, 10 am to 6:30 pm: Program Training 10 am, Break 12 pm, Program Training 12:15 pm, Meal 2 pm, Program Training 2:30 pm, Break 4:30 pm, Program Training 4:45 pm
+Person 59 Monday, 03/18/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 59 Tuesday, 03/19/2024, 10 am to 6:30 pm: Program Training 10 am, Break 12 pm, On Queue 12:15 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm
+Person 59 Thursday, 03/21/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Meeting 3:30 pm, On Queue 4 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 59 Friday, 03/22/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:30 am, On Queue 11:45 am, Meal 2 pm, On Queue 2:30 pm, Break 4:30 pm, On Queue 4:45 pm
+Person 59 Saturday, 03/23/2024, 10 am to 6:30 pm: On Queue 10 am, Break 11:45 am, On Queue 12 pm, Meal 2 pm, On Queue 2:30 pm, Break 4:15 pm, On Queue 4:30 pm

@@ -1,0 +1,294 @@
+Person,Activity,Activity Duration
+1,Break,10.5
+1,Extra Hours,7.5
+1,Meal,10.5
+1,Meeting,0.5
+1,On Queue,149.5
+2,Break,4.5
+2,Meeting,0.5
+2,On Queue,65.5
+2,Program Training,1.5
+3,Absent,9.183333333333334
+3,Break,9.25
+3,Meal,9.0
+3,Meeting,0.5
+3,On Queue,142.06666666666666
+4,Absent,1.5
+4,Break,9.25
+4,Extra Hours,4.75
+4,Meal,9.5
+4,Meeting,0.5
+4,On Queue,139.5
+4,Time Off,1.5
+5,Absent,4.083333333333333
+5,Break,8.25
+5,Meal,8.0
+5,On Queue,121.91666666666667
+5,Program Training,1.5
+5,Time Off,9.25
+6,Break,8.0
+6,Extra Hours,7.5
+6,Meal,8.0
+6,Meeting,0.5
+6,On Queue,112.0
+7,Break,7.0
+7,Meeting,0.5
+7,On Queue,111.66666666666667
+7,Program Training,0.8333333333333334
+7,Split,84.0
+8,Absent,4.066666666666666
+8,Break,9.25
+8,Chat Support,55.5
+8,Meal,9.5
+8,Meeting,0.5
+8,On Queue,82.75
+9,Break,10.0
+9,Meal,10.0
+9,Meeting,0.5
+9,On Queue,148.0
+9,Program Training,1.5
+10,Absent,7.25
+10,Break,12.0
+10,Extra Hours,21.0
+10,Meal,9.0
+10,Meeting,0.5
+10,On Queue,141.25
+10,Unavailable,2.0
+11,Absent,9.033333333333333
+11,Break,8.5
+11,Meal,4.0
+11,On Queue,126.83333333333333
+12,Break,10.0
+12,Chat Support,49.5
+12,Meal,10.0
+12,Meeting,0.5
+12,On Queue,98.5
+12,Program Training,1.5
+13,Absent,32.483333333333334
+13,Break,8.25
+13,Extra Hours,6.25
+13,Meal,8.95
+13,Meeting,0.5
+13,On Queue,121.56666666666666
+13,Split,3.5
+14,Absent,1.0833333333333333
+14,Break,9.5
+14,Meal,9.0
+14,Meeting,0.5
+14,On Queue,138.41666666666666
+14,Program Training,1.5
+14,Time Off,2.0
+15,Absent,1.4833333333333334
+15,Break,11.75
+15,Meal,8.0
+15,Meeting,0.5
+15,On Queue,147.26666666666668
+16,Break,9.5
+16,Meal,9.5
+16,Meeting,0.5
+16,On Queue,142.0
+17,Absent,0.5
+17,Break,9.0
+17,Chat Support,36.0
+17,Meal,9.0
+17,Meeting,0.5
+17,On Queue,98.0
+18,Absent,8.05
+18,Break,8.0
+18,Meal,8.0
+18,Meeting,0.5
+18,On Queue,118.45
+18,Program Training,1.5
+19,Break,10.0
+19,Meal,10.0
+19,Meeting,0.5
+19,On Queue,150.5
+21,Break,10.0
+21,Meal,8.0
+21,On Queue,148.5
+21,Program Training,1.5
+23,Break,9.5
+23,Meal,9.5
+23,Meeting,0.5
+23,On Queue,142.25
+23,Program Training,0.75
+23,Time Off,8.5
+24,Absent,3.0
+24,Break,10.0
+24,Meal,10.0
+24,Meeting,0.5
+24,On Queue,146.5
+25,Break,10.0
+25,Meal,10.0
+25,Meeting,0.5
+25,On Queue,149.5
+26,Absent,8.75
+26,Break,9.0
+26,Meal,9.0
+26,Meeting,0.5
+26,On Queue,113.25
+26,Program Training,21.0
+27,Absent,10.5
+27,Break,10.5
+27,Meal,7.0
+27,On Queue,132.0
+27,Time Off,2.5
+28,Absent,11.4
+28,Break,8.5
+28,Meal,8.0
+28,Meeting,0.5
+28,On Queue,135.1
+28,Time Off,6.5
+29,Absent,55.71666666666667
+29,Break,6.75
+29,Meal,5.0
+29,On Queue,69.03333333333333
+29,Program Training,17.0
+30,Absent,27.85
+30,Break,7.5
+30,Meal,6.55
+30,Meeting,0.5
+30,NCNS,4.766666666666667
+30,On Queue,114.33333333333333
+31,Break,7.0
+31,Meal,7.0
+31,On Queue,108.33333333333333
+31,Time Off,5.166666666666666
+32,Absent,11.916666666666668
+32,Accommodation,8.5
+32,Break,4.0
+32,Meeting,0.5
+32,On Queue,70.08333333333333
+33,Absent,10.5
+33,Break,11.75
+33,Extra Hours,7.5
+33,Meal,8.0
+33,Meeting,0.5
+33,On Queue,138.25
+34,Absent,25.333333333333336
+34,Break,7.0
+34,Meal,7.0
+34,Meeting,0.5
+34,On Queue,104.66666666666667
+35,Absent,3.5
+35,Break,8.75
+35,Meal,9.5
+35,Meeting,0.5
+35,On Queue,139.25
+36,Break,10.0
+36,Meal,10.0
+36,Meeting,0.5
+36,On Queue,148.66666666666666
+36,Program Training,0.8333333333333334
+37,Absent,8.5
+37,Break,9.5
+37,Meal,9.5
+37,Meeting,0.5
+37,On Queue,142.0
+38,Break,10.0
+38,Meal,10.0
+38,On Queue,150.0
+39,Absent,3.5
+39,Break,9.25
+39,Meal,9.5
+39,Meeting,0.5
+39,On Queue,137.25
+39,Program Training,1.5
+40,Absent,0.36666666666666664
+40,Break,9.75
+40,Meeting,0.5
+40,On Queue,89.38333333333334
+41,Break,9.75
+41,Extra Hours,3.75
+41,Meal,9.5
+41,Meeting,0.5
+41,On Queue,140.5
+41,Program Training,1.5
+43,Absent,0.2833333333333333
+43,Break,10.0
+43,Meal,10.0
+43,Meeting,0.5
+43,On Queue,149.21666666666667
+44,Absent,19.65
+44,Break,7.5
+44,Meal,6.5
+44,Meeting,0.5
+44,On Queue,124.35
+45,Accommodation,1.6666666666666665
+45,Break,10.0
+45,Extra Hours,6.25
+45,Meal,10.0
+45,Meeting,0.5
+45,On Queue,145.93333333333334
+45,Split,3.5
+45,Time Off,2.1500000000000004
+46,Absent,6.2
+46,Break,9.75
+46,Meal,10.0
+46,Meeting,0.5
+46,On Queue,142.55
+46,Program Training,1.5
+47,Absent,19.266666666666666
+47,Break,5.25
+47,Meal,6.5
+47,Meeting,0.5
+47,On Queue,87.48333333333333
+48,Absent,8.5
+48,Break,9.25
+48,Extra Hours,4.25
+48,Meal,9.5
+48,On Queue,143.0
+49,Absent,5.5
+49,Break,4.0
+49,Meeting,0.5
+49,On Queue,75.0
+50,Break,5.75
+50,Meal,2.0
+50,Meeting,0.5
+50,On Queue,151.75
+50,Split,96.0
+50,Time Off,3.0
+51,Absent,12.25
+51,Break,4.0
+51,Meeting,0.5
+51,On Queue,59.25
+52,Break,9.5
+52,Meal,9.5
+52,Meeting,0.5
+52,On Queue,142.0
+53,Absent,19.0
+53,Break,5.25
+53,Leave,16.0
+53,Meal,5.5
+53,NCNS,8.0
+53,On Queue,56.25
+53,Program Training,19.0
+54,Absent,0.6333333333333333
+54,Break,9.25
+54,Meal,9.5
+54,Meeting,0.5
+54,On Queue,141.61666666666667
+55,Absent,7.966666666666667
+55,Break,7.75
+55,Meal,8.0
+55,Meeting,0.5
+55,On Queue,90.1
+55,Program Training,27.183333333333334
+55,Time Off,28.5
+56,Absent,3.683333333333333
+56,Break,9.0
+56,Meal,9.5
+56,Meeting,0.5
+56,On Queue,136.31666666666666
+56,Time Off,2.5
+58,Break,9.75
+58,Meal,10.0
+58,Meeting,0.5
+58,On Queue,146.25
+58,Time Off,3.5
+59,Break,8.0
+59,Meal,8.0
+59,Meeting,0.5
+59,On Queue,90.5
+59,Program Training,28.5
+59,Time Off,0.5
